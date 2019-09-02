@@ -17916,12 +17916,13 @@
   ],
   "meta": {
     "tittel": "Landskap",
-    "produsertUtc": "2019-09-02T10:15:03.679Z",
+    "produsertUtc": "2019-09-02T10:32:37.624Z",
     "utgiver": "Artsdatabanken",
-    "url": null,
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/landskap.json",
     "tool": {
       "name": "landskap-lastejobb"
     },
     "elementer": 352
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/landskap.schema.json#"
 }
