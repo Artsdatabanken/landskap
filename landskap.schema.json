@@ -1,0 +1,216 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "foreldre": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "ingress": {
+            "type": "string"
+          },
+          "kode": {
+            "type": "string"
+          },
+          "pred_lnr": {
+            "type": "string"
+          },
+          "relasjon": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "erSubset": {
+                  "type": "boolean"
+                },
+                "kant": {
+                  "type": "string"
+                },
+                "kantRetur": {
+                  "type": "string"
+                },
+                "kode": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "erSubset",
+                "kant",
+                "kantRetur",
+                "kode"
+              ]
+            }
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "nb": {
+                "type": "string"
+              }
+            }
+          },
+          "tittel_kort": {
+            "type": "string"
+          },
+          "intervall": {
+            "type": "object",
+            "properties": {
+              "max": {
+                "type": [
+                  "string",
+                  "number"
+                ]
+              },
+              "maxTekst": {
+                "type": "string"
+              },
+              "min": {
+                "type": [
+                  "string",
+                  "number"
+                ]
+              },
+              "minTekst": {
+                "type": "string"
+              },
+              "måleenhet": {
+                "type": "string"
+              }
+            }
+          },
+          "max": {
+            "type": "string"
+          },
+          "min": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "sortering": {
+            "type": "number"
+          },
+          "farge": {
+            "type": "string"
+          },
+          "normalisertVerdi": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            }
+          },
+          "kart": {
+            "type": "object",
+            "properties": {
+              "format": {
+                "type": "object",
+                "properties": {
+                  "raster_gradient": {
+                    "type": "object",
+                    "properties": {
+                      "intervall": {
+                        "type": "object",
+                        "properties": {
+                          "normalisertVerdi": {
+                            "type": "array",
+                            "items": {
+                              "type": "number"
+                            }
+                          },
+                          "original": {
+                            "type": "array",
+                            "items": {
+                              "type": "number"
+                            }
+                          }
+                        }
+                      },
+                      "visning": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "presisjon": {
+                "type": "number"
+              }
+            }
+          },
+          "måleenhet": {
+            "type": "string"
+          },
+          "infoUrl": {
+            "type": "string"
+          },
+          "skala_km2": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            }
+          }
+        },
+        "required": [
+          "foreldre",
+          "ingress",
+          "kode",
+          "pred_lnr",
+          "relasjon",
+          "tittel",
+          "tittel_kort",
+          "intervall",
+          "max",
+          "min",
+          "type",
+          "sortering",
+          "farge",
+          "normalisertVerdi",
+          "kart",
+          "måleenhet",
+          "infoUrl"
+        ]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "null"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}
