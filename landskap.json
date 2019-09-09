@@ -176,6 +176,7 @@
       "tittel_kort": "Kystlandskap"
     },
     {
+      "farge": "hsl(200, 55%, 54%)",
       "foreldre": [
         "NN-LA-TI"
       ],
@@ -197,6 +198,7 @@
       "tittel_kort": "Marine landskap"
     },
     {
+      "farge": "hsl(77, 81%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -255,6 +257,7 @@
       "tittel_kort": "Dalformet åslandskap"
     },
     {
+      "farge": "hsl(38, 88%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -313,6 +316,7 @@
       "tittel_kort": "Dalformet åslandskap med jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 61%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -371,6 +375,7 @@
       "tittel_kort": "Dalformet åslandskap med bebyggelse"
     },
     {
+      "farge": "hsl(38, 76%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -429,6 +434,7 @@
       "tittel_kort": "Dalformet åslandskap med bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 49%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -487,6 +493,7 @@
       "tittel_kort": "Dalformet åslandskap med tett bebyggelse"
     },
     {
+      "farge": "hsl(38, 66%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -545,6 +552,7 @@
       "tittel_kort": "Dalformet åslandskap med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 41%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -603,6 +611,7 @@
       "tittel_kort": "Dalformet åslandskap med by"
     },
     {
+      "farge": "hsl(66, 32%, 73%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -661,6 +670,7 @@
       "tittel_kort": "Dalformet åslandskap med hei"
     },
     {
+      "farge": "hsl(35, 63%, 73%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -719,6 +729,7 @@
       "tittel_kort": "Dalformet åslandskap med hei og jordbruksdominans"
     },
     {
+      "farge": "hsl(66, 24%, 73%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -777,6 +788,7 @@
       "tittel_kort": "Dalformet åslandskap med hei og bebyggelse"
     },
     {
+      "farge": "hsl(55, 25%, 73%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -835,6 +847,7 @@
       "tittel_kort": "Dalformet fjellandskap med hei"
     },
     {
+      "farge": "hsl(33, 1%, 73%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -893,6 +906,7 @@
       "tittel_kort": "Dalformet bart fjellandskap"
     },
     {
+      "farge": "hsl(119, 40%, 88%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -951,6 +965,7 @@
       "tittel_kort": "Dalformet bart fjellandskap dominert av isbre"
     },
     {
+      "farge": "hsl(77, 81%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1009,6 +1024,7 @@
       "tittel_kort": "Slakt til småkupert åslandskap"
     },
     {
+      "farge": "hsl(38, 88%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1067,6 +1083,7 @@
       "tittel_kort": "Slakt til småkupert åslandskap med jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 61%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1125,6 +1142,7 @@
       "tittel_kort": "Slakt til småkupert åslandskap med bebyggelse"
     },
     {
+      "farge": "hsl(38, 76%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1183,6 +1201,7 @@
       "tittel_kort": "Slakt til småkupert åslandskap med bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 49%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1241,6 +1260,7 @@
       "tittel_kort": "Slakt til småkupert åslandskap med tett bebyggelse"
     },
     {
+      "farge": "hsl(38, 66%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1299,6 +1319,7 @@
       "tittel_kort": "Slakt til småkupert åslandskap med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 41%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1357,6 +1378,7 @@
       "tittel_kort": "Slakt til småkupert åslandskap med by"
     },
     {
+      "farge": "hsl(66, 32%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1415,6 +1437,7 @@
       "tittel_kort": "Slakt til småkupert åslandskap med hei"
     },
     {
+      "farge": "hsl(66, 24%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1473,6 +1496,7 @@
       "tittel_kort": "Slakt til småkupert åslandskap med hei og bebyggelse"
     },
     {
+      "farge": "hsl(55, 25%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1531,6 +1555,7 @@
       "tittel_kort": "Slakt til småkupert fjellandskap med hei"
     },
     {
+      "farge": "hsl(55, 19%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1589,6 +1614,7 @@
       "tittel_kort": "Slakt til småkupert fjellandskap med hei og bebyggelse"
     },
     {
+      "farge": "hsl(33, 1%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1647,6 +1673,7 @@
       "tittel_kort": "Slakt til småkupert bart fjellandskap"
     },
     {
+      "farge": "hsl(119, 40%, 88%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1705,6 +1732,7 @@
       "tittel_kort": "Slakt til småkupert bart fjellandskap dominert av isbre"
     },
     {
+      "farge": "hsl(77, 81%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1763,6 +1791,7 @@
       "tittel_kort": "Middels kupert åslandskap"
     },
     {
+      "farge": "hsl(38, 88%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1821,6 +1850,7 @@
       "tittel_kort": "Middels kupert åslandskap med jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 61%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1879,6 +1909,7 @@
       "tittel_kort": "Middels kupert åslandskap med bebyggelse"
     },
     {
+      "farge": "hsl(38, 76%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1937,6 +1968,7 @@
       "tittel_kort": "Middels kupert åslandskap med bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 49%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -1995,6 +2027,7 @@
       "tittel_kort": "Middels kupert åslandskap med tett bebyggelse"
     },
     {
+      "farge": "hsl(38, 66%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2053,6 +2086,7 @@
       "tittel_kort": "Middels kupert åslandskap med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(66, 32%, 77%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2111,6 +2145,7 @@
       "tittel_kort": "Middels kupert åslandskap med by"
     },
     {
+      "farge": "hsl(35, 63%, 76%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2169,6 +2204,7 @@
       "tittel_kort": "Middels kupert åslandskap med hei  og jordbruksdominans"
     },
     {
+      "farge": "hsl(66, 24%, 77%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2227,6 +2263,7 @@
       "tittel_kort": "Middels kupert åslandskap med hei og bebyggelse"
     },
     {
+      "farge": "hsl(55, 25%, 77%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2285,6 +2322,7 @@
       "tittel_kort": "Middels kupert fjellandskap med hei"
     },
     {
+      "farge": "hsl(55, 19%, 77%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2343,6 +2381,7 @@
       "tittel_kort": "Middels kupert fjellandskap med hei og bebyggelse"
     },
     {
+      "farge": "hsl(33, 1%, 77%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2401,6 +2440,7 @@
       "tittel_kort": "Middels kupert bart fjellandskap"
     },
     {
+      "farge": "hsl(119, 40%, 89%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2459,6 +2499,7 @@
       "tittel_kort": "Middels kupert bart fjellandskap dominert av isbre"
     },
     {
+      "farge": "hsl(77, 81%, 69%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2517,6 +2558,7 @@
       "tittel_kort": "Kupert åslandskap"
     },
     {
+      "farge": "hsl(77, 61%, 69%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2575,6 +2617,7 @@
       "tittel_kort": "Kupert åslandskap med bebyggelse"
     },
     {
+      "farge": "hsl(38, 76%, 69%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2633,6 +2676,7 @@
       "tittel_kort": "Kupert åslandskap med bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 49%, 69%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2691,6 +2735,7 @@
       "tittel_kort": "Kupert åslandskap med tett bebyggelse"
     },
     {
+      "farge": "hsl(66, 32%, 79%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2749,6 +2794,7 @@
       "tittel_kort": "Kupert åslandskap med hei"
     },
     {
+      "farge": "hsl(55, 25%, 79%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2807,6 +2853,7 @@
       "tittel_kort": "Kupert fjellandskap med hei"
     },
     {
+      "farge": "hsl(33, 1%, 79%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2865,6 +2912,7 @@
       "tittel_kort": "Kupert bart fjellandskap"
     },
     {
+      "farge": "hsl(119, 40%, 90%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2923,6 +2971,7 @@
       "tittel_kort": "Kupert bart fjellandskap dominert av isbre"
     },
     {
+      "farge": "hsl(77, 81%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -2981,6 +3030,7 @@
       "tittel_kort": "Tindepreget åslandskap"
     },
     {
+      "farge": "hsl(77, 61%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -3039,6 +3089,7 @@
       "tittel_kort": "Tindepreget åslandskap med bebyggelse"
     },
     {
+      "farge": "hsl(77, 49%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -3097,6 +3148,7 @@
       "tittel_kort": "Tindepreget åslandskap med tett bebyggelse"
     },
     {
+      "farge": "hsl(66, 32%, 81%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -3155,6 +3207,7 @@
       "tittel_kort": "Tindepreget åslandskap med hei"
     },
     {
+      "farge": "hsl(55, 25%, 81%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -3213,6 +3266,7 @@
       "tittel_kort": "Tindepreget fjellandskap med hei"
     },
     {
+      "farge": "hsl(33, 1%, 81%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -3271,6 +3325,7 @@
       "tittel_kort": "Tindepreget bart fjellandskap"
     },
     {
+      "farge": "hsl(119, 40%, 90%)",
       "foreldre": [
         "NN-LA-TI-I-A"
       ],
@@ -3329,6 +3384,7 @@
       "tittel_kort": "Tindepreget bart fjellandskap dominert av isbre"
     },
     {
+      "farge": "hsl(82, 81%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3393,6 +3449,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen"
     },
     {
+      "farge": "hsl(39, 88%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3457,6 +3514,7 @@
       "tittel_kort": "Åpent dallandskap med jordbruksdominans"
     },
     {
+      "farge": "hsl(82, 61%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3521,6 +3579,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med bebyggelse"
     },
     {
+      "farge": "hsl(39, 76%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3585,6 +3644,7 @@
       "tittel_kort": "Åpent dallandskap med bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(82, 49%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3649,6 +3709,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med tett bebyggelse"
     },
     {
+      "farge": "hsl(39, 66%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3713,6 +3774,7 @@
       "tittel_kort": "Åpent dallandskap med hei, tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(71, 32%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3777,6 +3839,7 @@
       "tittel_kort": "Åpent dallandskap med hei under skoggrensen"
     },
     {
+      "farge": "hsl(71, 24%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3841,6 +3904,7 @@
       "tittel_kort": "Åpent dallandskap i fjellet med hei og bebyggelse"
     },
     {
+      "farge": "hsl(59, 25%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3905,6 +3969,7 @@
       "tittel_kort": "Åpent dallandskap i fjellet med hei"
     },
     {
+      "farge": "hsl(35, 1%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -3969,6 +4034,7 @@
       "tittel_kort": "Åpent dallandskap i fjellet med bart fjell"
     },
     {
+      "farge": "hsl(148, 40%, 88%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4033,6 +4099,7 @@
       "tittel_kort": "Åpent dallandskap dominert av isbre"
     },
     {
+      "farge": "hsl(200, 63%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4097,6 +4164,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med innsjø"
     },
     {
+      "farge": "hsl(21, 74%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4161,6 +4229,7 @@
       "tittel_kort": "Åpent dallandskap med innsjø og jordbruksdominans"
     },
     {
+      "farge": "hsl(200, 54%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4225,6 +4294,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(21, 66%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4289,6 +4359,7 @@
       "tittel_kort": "Åpent dallandskap med innsjø,bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(200, 47%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4353,6 +4424,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med hei, innsjø og tett bebyggelse"
     },
     {
+      "farge": "hsl(205, 38%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4417,6 +4489,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med hei og innsjø"
     },
     {
+      "farge": "hsl(205, 33%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4481,6 +4554,7 @@
       "tittel_kort": "Åpent dallandskap i fjellet med hei, innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(213, 35%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4545,6 +4619,7 @@
       "tittel_kort": "Åpent dallandskap i fjellet med bart fjell og innsjø"
     },
     {
+      "farge": "hsl(233, 23%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4609,6 +4684,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med innsjø"
     },
     {
+      "farge": "hsl(200, 71%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4673,6 +4749,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med større innsjø"
     },
     {
+      "farge": "hsl(200, 61%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4737,6 +4814,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med større innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(21, 71%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4801,6 +4879,7 @@
       "tittel_kort": "Åpent dallandskap med større innsjø, bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(200, 53%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4865,6 +4944,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med større innsjø og tett bebyggelse"
     },
     {
+      "farge": "hsl(21, 65%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4929,6 +5009,7 @@
       "tittel_kort": "Åpent dallandskap med større innsjø, tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(200, 47%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -4993,6 +5074,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med hei, større innsjø og by"
     },
     {
+      "farge": "hsl(205, 46%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5057,6 +5139,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med hei og større innsjø"
     },
     {
+      "farge": "hsl(205, 40%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5121,6 +5204,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med hei, større innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(205, 35%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5185,6 +5269,7 @@
       "tittel_kort": "Åpent dallandskap i fjellet med hei, større innsjø og tett bebyggelse"
     },
     {
+      "farge": "hsl(213, 43%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5249,6 +5334,7 @@
       "tittel_kort": "Åpent dallandskap i fjellet med bart fjell og større innsjø"
     },
     {
+      "farge": "hsl(233, 31%, 75%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5313,6 +5399,7 @@
       "tittel_kort": "Åpent dallandskap under skoggrensen med større innsjø"
     },
     {
+      "farge": "hsl(82, 81%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5377,6 +5464,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen"
     },
     {
+      "farge": "hsl(39, 88%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5441,6 +5529,7 @@
       "tittel_kort": "Relativt åpent dallandskap med jordbruksdominans"
     },
     {
+      "farge": "hsl(82, 61%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5505,6 +5594,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med bebyggelse"
     },
     {
+      "farge": "hsl(39, 76%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5569,6 +5659,7 @@
       "tittel_kort": "Relativt åpent dallandskap med bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(82, 49%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5633,6 +5724,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med tett bebyggelse"
     },
     {
+      "farge": "hsl(39, 66%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5697,6 +5789,7 @@
       "tittel_kort": "Relativt åpent dallandskap med hei, tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(71, 32%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5761,6 +5854,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med hei"
     },
     {
+      "farge": "hsl(71, 24%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5825,6 +5919,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med hei og bebyggelse"
     },
     {
+      "farge": "hsl(71, 19%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5889,6 +5984,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med hei og tett bebyggelse"
     },
     {
+      "farge": "hsl(59, 25%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -5953,6 +6049,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med hei"
     },
     {
+      "farge": "hsl(59, 19%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6017,6 +6114,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med bart fjell og bebyggelse"
     },
     {
+      "farge": "hsl(35, 1%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6081,6 +6179,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med bart fjell"
     },
     {
+      "farge": "hsl(148, 40%, 87%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6145,6 +6244,7 @@
       "tittel_kort": "Relativt åpent dallandskap dominert av isbre"
     },
     {
+      "farge": "hsl(200, 63%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6209,6 +6309,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med innsjø"
     },
     {
+      "farge": "hsl(200, 54%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6273,6 +6374,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(21, 66%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6337,6 +6439,7 @@
       "tittel_kort": "Relativt åpent dallandskap med innsjø, bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(200, 47%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6401,6 +6504,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med hei, innsjø og tett bebyggelse"
     },
     {
+      "farge": "hsl(205, 38%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6465,6 +6569,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med hei og innsjø"
     },
     {
+      "farge": "hsl(205, 33%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6529,6 +6634,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med hei, innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(213, 35%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6593,6 +6699,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med hei og innsjø"
     },
     {
+      "farge": "hsl(233, 23%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6657,6 +6764,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med bart fjell og innsjø"
     },
     {
+      "farge": "hsl(233, 20%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6721,6 +6829,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med bart fjell, innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(220, 42%, 87%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6785,6 +6894,7 @@
       "tittel_kort": "Relativt åpent dallandskap dominert av isbre med innsjø"
     },
     {
+      "farge": "hsl(200, 71%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6849,6 +6959,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med større innsjø"
     },
     {
+      "farge": "hsl(200, 61%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6913,6 +7024,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med større innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(21, 71%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -6977,6 +7089,7 @@
       "tittel_kort": "Relativt åpent dallandskap med større innsjø, bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(200, 53%, 61%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7041,6 +7154,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med hei, større innsjø og tett bebyggelse"
     },
     {
+      "farge": "hsl(205, 46%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7105,6 +7219,7 @@
       "tittel_kort": "Relativt åpent dallandskap under skoggrensen med hei og større innsjø"
     },
     {
+      "farge": "hsl(205, 40%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7169,6 +7284,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med hei, større innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(213, 43%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7233,6 +7349,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med hei og større innsjø"
     },
     {
+      "farge": "hsl(213, 37%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7297,6 +7414,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med bart fjell, større innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(233, 31%, 71%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7361,6 +7479,7 @@
       "tittel_kort": "Relativt åpent dallandskap i fjellet med bart fjell og større innsjø"
     },
     {
+      "farge": "hsl(220, 47%, 87%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7425,6 +7544,7 @@
       "tittel_kort": "Relativt åpent dallandskap dominert av isbre med større innsjø"
     },
     {
+      "farge": "hsl(134, 46%, 56%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7489,6 +7609,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen"
     },
     {
+      "farge": "hsl(53, 62%, 57%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7553,6 +7674,7 @@
       "tittel_kort": "Nedskåret dallandskap med jordbruksdominans"
     },
     {
+      "farge": "hsl(134, 39%, 56%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7617,6 +7739,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen med bebyggelse"
     },
     {
+      "farge": "hsl(53, 56%, 57%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7681,6 +7804,7 @@
       "tittel_kort": "Nedskåret dallandskap med bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(134, 34%, 56%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7745,6 +7869,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen med hei og tett bebyggelse"
     },
     {
+      "farge": "hsl(128, 21%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7809,6 +7934,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen med hei"
     },
     {
+      "farge": "hsl(128, 18%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7873,6 +7999,7 @@
       "tittel_kort": "Nedskåret dallandskap i fjellet med hei og bebyggelse"
     },
     {
+      "farge": "hsl(123, 17%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -7937,6 +8064,7 @@
       "tittel_kort": "Nedskåret dallandskap i fjellet med hei"
     },
     {
+      "farge": "hsl(111, 5%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8001,6 +8129,7 @@
       "tittel_kort": "Nedskåret dallandskap i fjellet med bart fjell"
     },
     {
+      "farge": "hsl(112, 5%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8065,6 +8194,7 @@
       "tittel_kort": "Nedskåret dallandskap i fjellet med bart fjell og bebyggelse"
     },
     {
+      "farge": "hsl(183, 30%, 86%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8129,6 +8259,7 @@
       "tittel_kort": "Nedskåret dallandskap dominert av isbre"
     },
     {
+      "farge": "hsl(196, 45%, 56%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8193,6 +8324,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen med innsjø"
     },
     {
+      "farge": "hsl(196, 41%, 56%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8257,6 +8389,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen med innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(196, 37%, 56%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8321,6 +8454,7 @@
       "tittel_kort": "Nedskåret dallandskap  under skoggrensen med hei, innsjø og tett bebyggelse"
     },
     {
+      "farge": "hsl(199, 29%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8385,6 +8519,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen med hei og innsjø"
     },
     {
+      "farge": "hsl(199, 26%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8449,6 +8584,7 @@
       "tittel_kort": "Nedskåret dallandskap i fjellet med hei, innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(203, 27%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8513,6 +8649,7 @@
       "tittel_kort": "Nedskåret dallandskap i fjellet med hei og innsjø"
     },
     {
+      "farge": "hsl(214, 19%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8577,6 +8714,7 @@
       "tittel_kort": "Nedskåret dallandskap i fjellet med bart fjell og innsjø"
     },
     {
+      "farge": "hsl(211, 34%, 86%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8641,6 +8779,7 @@
       "tittel_kort": "Nedskåret dallandskap dominert av isbre med innsjø"
     },
     {
+      "farge": "hsl(196, 51%, 56%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8705,6 +8844,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen med større innsjø"
     },
     {
+      "farge": "hsl(196, 46%, 56%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8769,6 +8909,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen med større innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(167, 57%, 57%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8833,6 +8974,7 @@
       "tittel_kort": "Nedskåret dallandskap med hei, større innsjø, bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(199, 34%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8897,6 +9039,7 @@
       "tittel_kort": "Nedskåret dallandskap i fjellet med hei og større innsjø"
     },
     {
+      "farge": "hsl(203, 32%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -8961,6 +9104,7 @@
       "tittel_kort": "Nedskåret dallandskap i fjellet med bart fjell og større innsjø"
     },
     {
+      "farge": "hsl(214, 24%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9025,6 +9169,7 @@
       "tittel_kort": "Nedskåret dallandskap under skoggrensen med større innsjø"
     },
     {
+      "farge": "hsl(134, 45%, 53%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9089,6 +9234,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen"
     },
     {
+      "farge": "hsl(134, 39%, 53%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9153,6 +9299,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med bebyggelse"
     },
     {
+      "farge": "hsl(134, 34%, 53%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9217,6 +9364,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med hei og tett bebyggelse"
     },
     {
+      "farge": "hsl(128, 21%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9281,6 +9429,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med hei"
     },
     {
+      "farge": "hsl(128, 18%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9345,6 +9494,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap i fjellet med hei og bebyggelse"
     },
     {
+      "farge": "hsl(123, 17%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9409,6 +9559,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap i fjellet med hei"
     },
     {
+      "farge": "hsl(112, 5%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9473,6 +9624,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap i fjellet med bart fjell"
     },
     {
+      "farge": "hsl(183, 30%, 84%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9537,6 +9689,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap dominert av isbre"
     },
     {
+      "farge": "hsl(196, 45%, 53%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9601,6 +9754,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med innsjø"
     },
     {
+      "farge": "hsl(196, 41%, 53%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9665,6 +9819,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap i fjellet med bart fjell, innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(214, 19%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9729,6 +9884,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med innsjø"
     },
     {
+      "farge": "hsl(196, 51%, 53%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9793,6 +9949,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med større innsjø"
     },
     {
+      "farge": "hsl(196, 46%, 53%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9857,6 +10014,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med hei, større innsjø og bebyggelse"
     },
     {
+      "farge": "hsl(199, 34%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9921,6 +10079,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap i fjellet med bart fjell og større innsjø"
     },
     {
+      "farge": "hsl(214, 24%, 63%)",
       "foreldre": [
         "NN-LA-TI-I-D"
       ],
@@ -9985,6 +10144,7 @@
       "tittel_kort": "Dypt nedskåret dallandskap i fjellet med større innsjø"
     },
     {
+      "farge": "hsl(77, 81%, 47%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10049,6 +10209,7 @@
       "tittel_kort": "Innlandsslette under skoggrensen"
     },
     {
+      "farge": "hsl(49, 88%, 48%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10113,6 +10274,7 @@
       "tittel_kort": "Innlandsslette med jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 61%, 47%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10177,6 +10339,7 @@
       "tittel_kort": "Innlandsslette med bebyggelse"
     },
     {
+      "farge": "hsl(49, 76%, 48%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10241,6 +10404,7 @@
       "tittel_kort": "Innlandsslette med bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 49%, 47%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10305,6 +10469,7 @@
       "tittel_kort": "Innlandsslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(49, 66%, 48%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10369,6 +10534,7 @@
       "tittel_kort": "Innlandsslette med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 41%, 47%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10433,6 +10599,7 @@
       "tittel_kort": "Innlandsslette med by"
     },
     {
+      "farge": "hsl(72, 32%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10497,6 +10664,7 @@
       "tittel_kort": "Innlandsslette under skoggrensen med hei"
     },
     {
+      "farge": "hsl(72, 24%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10561,6 +10729,7 @@
       "tittel_kort": "Innlandsslette med hei og bebyggelse"
     },
     {
+      "farge": "hsl(66, 25%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10625,6 +10794,7 @@
       "tittel_kort": "Innlandsslette i fjellet med hei"
     },
     {
+      "farge": "hsl(55, 1%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10689,6 +10859,7 @@
       "tittel_kort": "Innlandsslette i fjellet med bart fjell"
     },
     {
+      "farge": "hsl(82, 40%, 89%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10753,6 +10924,7 @@
       "tittel_kort": "Innlandsslette dominert av isbre"
     },
     {
+      "farge": "hsl(69, 61%, 47%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10817,6 +10989,7 @@
       "tittel_kort": "Innlandsslette under skoggrensen med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(69, 52%, 47%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10881,6 +11054,7 @@
       "tittel_kort": "Innlandsslette med høyt våtmarkspreg og bebyggelse"
     },
     {
+      "farge": "hsl(36, 65%, 48%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -10945,6 +11119,7 @@
       "tittel_kort": "Innlandsslette med høyt våtmarkspreg, bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(69, 46%, 47%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11009,6 +11184,7 @@
       "tittel_kort": "Innlandsslette med høyt våtmarkspreg og tett bebyggelse"
     },
     {
+      "farge": "hsl(59, 36%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11073,6 +11249,7 @@
       "tittel_kort": "Innlandsslette under skoggrensen med hei og høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(48, 33%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11137,6 +11314,7 @@
       "tittel_kort": "Innlandsslette i fjellet med hei og høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(28, 21%, 65%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11201,6 +11379,7 @@
       "tittel_kort": "Innlandsslette i fjellet med bart fjell og høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(77, 81%, 49%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11265,6 +11444,7 @@
       "tittel_kort": "Kystnær innlandsslette under skoggrensen"
     },
     {
+      "farge": "hsl(77, 61%, 49%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11329,6 +11509,7 @@
       "tittel_kort": "Kystnær innlandsslette med bebyggelse"
     },
     {
+      "farge": "hsl(48, 76%, 50%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11393,6 +11574,7 @@
       "tittel_kort": "Kystnær innlandsslette med bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 49%, 49%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11457,6 +11639,7 @@
       "tittel_kort": "Kystnær innlandsslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(48, 66%, 50%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11521,6 +11704,7 @@
       "tittel_kort": "Kystnær innlandsslette med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(77, 40%, 49%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11585,6 +11769,7 @@
       "tittel_kort": "Kystnær innlandsslette med by"
     },
     {
+      "farge": "hsl(71, 32%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11649,6 +11834,7 @@
       "tittel_kort": "Kystnær innlandsslette under skoggrensen med hei"
     },
     {
+      "farge": "hsl(66, 25%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11713,6 +11899,7 @@
       "tittel_kort": "Kystnær innlandsslette i fjellet med hei"
     },
     {
+      "farge": "hsl(55, 1%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11777,6 +11964,7 @@
       "tittel_kort": "Kystnær innlandsslette i fjellet med bart fjell"
     },
     {
+      "farge": "hsl(82, 40%, 89%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11841,6 +12029,7 @@
       "tittel_kort": "Kystnær innlandsslette dominert av isbre"
     },
     {
+      "farge": "hsl(69, 61%, 49%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11905,6 +12094,7 @@
       "tittel_kort": "Kystnær innlandsslette under skoggrensen med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(36, 72%, 50%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -11969,6 +12159,7 @@
       "tittel_kort": "Kystnær innlandsslette med høyt våtmarkspreg og jordbruksdominans"
     },
     {
+      "farge": "hsl(69, 52%, 49%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -12033,6 +12224,7 @@
       "tittel_kort": "Kystnær innlandsslette med høyt våtmarkspreg og bebyggelse"
     },
     {
+      "farge": "hsl(36, 65%, 50%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -12097,6 +12289,7 @@
       "tittel_kort": "Kystnær innlandsslette med høyt våtmarkspreg, bebyggelse og jordbruksdominans"
     },
     {
+      "farge": "hsl(59, 36%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -12161,6 +12354,7 @@
       "tittel_kort": "Kystnær innlandsslette under skoggrensen med hei og høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(48, 33%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -12225,6 +12419,7 @@
       "tittel_kort": "Kystnær innlandsslette i fjellet med hei og høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(28, 21%, 67%)",
       "foreldre": [
         "NN-LA-TI-I-S"
       ],
@@ -12289,6 +12484,7 @@
       "tittel_kort": "Kystnær innlandsslette i fjellet med bart fjell og høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(190, 10%, 83%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12341,6 +12537,7 @@
       "tittel_kort": "Åpent fjordlandskap"
     },
     {
+      "farge": "hsl(0, 0%, 83%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12393,6 +12590,7 @@
       "tittel_kort": "Åpent fjordlandskap med bebyggelse"
     },
     {
+      "farge": "hsl(21, 71%, 81%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12445,6 +12643,7 @@
       "tittel_kort": "Åpent fjordlandskap med bebyggelse og jorbruksdominans"
     },
     {
+      "farge": "hsl(0, 0%, 83%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12497,6 +12696,7 @@
       "tittel_kort": "Åpent fjordlandskap med tett bebyggelse"
     },
     {
+      "farge": "hsl(0, 0%, 83%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12549,6 +12749,7 @@
       "tittel_kort": "Åpent fjordlandskap med by"
     },
     {
+      "farge": "hsl(260, 41%, 83%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12601,6 +12802,7 @@
       "tittel_kort": "Åpent fjordlandskap med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(260, 31%, 83%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12653,6 +12855,7 @@
       "tittel_kort": "Åpent fjordlandskap med høyt våtmarkspreg og bebyggelse"
     },
     {
+      "farge": "hsl(190, 10%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12705,6 +12908,7 @@
       "tittel_kort": "Relativt åpent fjordlandskap"
     },
     {
+      "farge": "hsl(0, 0%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12757,6 +12961,7 @@
       "tittel_kort": "Relativt åpent fjordlandskap med bebyggelse"
     },
     {
+      "farge": "hsl(21, 71%, 74%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12809,6 +13014,7 @@
       "tittel_kort": "Relativt åpent fjordlandskap med bebyggelse og jorbruksdominans"
     },
     {
+      "farge": "hsl(0, 0%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12861,6 +13067,7 @@
       "tittel_kort": "Relativt åpent fjordlandskap med tett bebyggelse"
     },
     {
+      "farge": "hsl(21, 57%, 74%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12913,6 +13120,7 @@
       "tittel_kort": "Relativt åpent fjordlandskap med tett bebyggelse  og jorbruksdominans"
     },
     {
+      "farge": "hsl(0, 0%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -12965,6 +13173,7 @@
       "tittel_kort": "Relativt åpent fjordlandskap med by"
     },
     {
+      "farge": "hsl(260, 41%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13017,6 +13226,7 @@
       "tittel_kort": "Relativt åpent fjordlandskap med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(260, 31%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13069,6 +13279,7 @@
       "tittel_kort": "Relativt åpent fjordlandskap med høyt våtmarkspreg og bebyggelse"
     },
     {
+      "farge": "hsl(260, 25%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13121,6 +13332,7 @@
       "tittel_kort": "Relativt åpent fjordlandskap med høyt våtmarkspreg og tett bebyggelse"
     },
     {
+      "farge": "hsl(190, 10%, 67%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13173,6 +13385,7 @@
       "tittel_kort": "Nedskåret fjordlandskap"
     },
     {
+      "farge": "hsl(190, 8%, 67%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13225,6 +13438,7 @@
       "tittel_kort": "Nedskåret fjordlandskap med bebyggelse"
     },
     {
+      "farge": "hsl(30, 45%, 67%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13277,6 +13491,7 @@
       "tittel_kort": "Nedskåret fjordlandskap med bebyggelse og jorbruksdominans"
     },
     {
+      "farge": "hsl(190, 6%, 67%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13329,6 +13544,7 @@
       "tittel_kort": "Nedskåret fjordlandskap med tett bebyggelse"
     },
     {
+      "farge": "hsl(30, 39%, 67%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13381,6 +13597,7 @@
       "tittel_kort": "Nedskåret fjordlandskap med tett bebyggelse  og jorbruksdominans"
     },
     {
+      "farge": "hsl(228, 25%, 67%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13433,6 +13650,7 @@
       "tittel_kort": "Nedskåret fjordlandskap med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(228, 22%, 67%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13485,6 +13703,7 @@
       "tittel_kort": "Nedskåret fjordlandskap med høyt våtmarkspreg og bebyggelse"
     },
     {
+      "farge": "hsl(190, 10%, 60%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13537,6 +13756,7 @@
       "tittel_kort": "Dypt nedskåret fjordlandskap"
     },
     {
+      "farge": "hsl(190, 8%, 60%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13589,6 +13809,7 @@
       "tittel_kort": "Dypt nedskåret fjordlandskap med bebyggelse"
     },
     {
+      "farge": "hsl(190, 6%, 60%)",
       "foreldre": [
         "NN-LA-TI-K-F"
       ],
@@ -13641,6 +13862,7 @@
       "tittel_kort": "Dypt nedskåret fjordlandskap med tett bebyggelse"
     },
     {
+      "farge": "hsl(177, 11%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -13699,6 +13921,7 @@
       "tittel_kort": "Indre kystslette"
     },
     {
+      "farge": "hsl(40, 53%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -13757,6 +13980,7 @@
       "tittel_kort": "Indre kystslette med jordbruksdominans"
     },
     {
+      "farge": "hsl(177, 7%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -13815,6 +14039,7 @@
       "tittel_kort": "Indre kystslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(40, 42%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -13873,6 +14098,7 @@
       "tittel_kort": "Indre kystslette med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(177, 5%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -13931,6 +14157,7 @@
       "tittel_kort": "Indre kystslette med by"
     },
     {
+      "farge": "hsl(221, 26%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -13989,6 +14216,7 @@
       "tittel_kort": "Indre kystslette med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(342, 49%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14047,6 +14275,7 @@
       "tittel_kort": "Indre kystslette med høyt våtmarkspreg og jordbruksdominans"
     },
     {
+      "farge": "hsl(221, 21%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14105,6 +14334,7 @@
       "tittel_kort": "Indre kystslette med høyt våtmarkspreg og tett bebyggelse"
     },
     {
+      "farge": "hsl(177, 11%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14163,6 +14393,7 @@
       "tittel_kort": "Indre småkupert kystslette"
     },
     {
+      "farge": "hsl(40, 53%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14221,6 +14452,7 @@
       "tittel_kort": "Indre småkupert kystslette med jordbruksdominans"
     },
     {
+      "farge": "hsl(177, 7%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14279,6 +14511,7 @@
       "tittel_kort": "Indre småkupert kystslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(40, 42%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14337,6 +14570,7 @@
       "tittel_kort": "Indre småkupert kystslette med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(177, 5%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14395,6 +14629,7 @@
       "tittel_kort": "Indre småkupert kystslette med by"
     },
     {
+      "farge": "hsl(40, 35%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14453,6 +14688,7 @@
       "tittel_kort": "Indresmåkupert kystslette med by og jordbruksdominans"
     },
     {
+      "farge": "hsl(221, 26%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14511,6 +14747,7 @@
       "tittel_kort": "Indre småkupert kystslette med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(342, 49%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14569,6 +14806,7 @@
       "tittel_kort": "Indre småkupert kystslette med høyt våtmarkspreg og jordbruksdominans"
     },
     {
+      "farge": "hsl(177, 11%, 87%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14627,6 +14865,7 @@
       "tittel_kort": "Indre kystslette med bratt fjell"
     },
     {
+      "farge": "hsl(40, 53%, 85%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14685,6 +14924,7 @@
       "tittel_kort": "Indre kystslette med bratt fjell og jordbruksdominans"
     },
     {
+      "farge": "hsl(177, 7%, 87%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14743,6 +14983,7 @@
       "tittel_kort": "Indre kystslette med bratt fjell og tett bebyggelse"
     },
     {
+      "farge": "hsl(221, 26%, 87%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14801,6 +15042,7 @@
       "tittel_kort": "Indre kystslette med bratt fjell og høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(188, 21%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14859,6 +15101,7 @@
       "tittel_kort": "Middels eksponert kystslette"
     },
     {
+      "farge": "hsl(32, 58%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14917,6 +15160,7 @@
       "tittel_kort": "Middels eksponert kystslette med jordbruksdominans"
     },
     {
+      "farge": "hsl(188, 14%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -14975,6 +15219,7 @@
       "tittel_kort": "Middels eksponert kystslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(32, 46%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15033,6 +15278,7 @@
       "tittel_kort": "Middels eksponert kystslette med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(188, 10%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15091,6 +15337,7 @@
       "tittel_kort": "Middels eksponert kystslette med by"
     },
     {
+      "farge": "hsl(227, 31%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15149,6 +15396,7 @@
       "tittel_kort": "Middels eksponert kystslette med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(188, 21%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15207,6 +15455,7 @@
       "tittel_kort": "Middels eksponert og småkupert kystslette"
     },
     {
+      "farge": "hsl(32, 58%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15265,6 +15514,7 @@
       "tittel_kort": "Middels eksponert og småkupert kystslette med jordbruksdominans"
     },
     {
+      "farge": "hsl(188, 14%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15323,6 +15573,7 @@
       "tittel_kort": "Middels eksponert og småkupert kystslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(32, 46%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15381,6 +15632,7 @@
       "tittel_kort": "Middels eksponert og småkupert kystslette med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(188, 10%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15439,6 +15691,7 @@
       "tittel_kort": "Middels eksponert og småkupert kystslette med by"
     },
     {
+      "farge": "hsl(227, 31%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15497,6 +15750,7 @@
       "tittel_kort": "Middels eksponert og småkupert kystslette med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(227, 25%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15555,6 +15809,7 @@
       "tittel_kort": "Middels eksponert og småkupert kystslette med høyt våtmarkspreg og tett bebyggelse"
     },
     {
+      "farge": "hsl(188, 21%, 87%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15613,6 +15868,7 @@
       "tittel_kort": "Middels eksponert kystslette med bratt fjell"
     },
     {
+      "farge": "hsl(32, 58%, 85%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15671,6 +15927,7 @@
       "tittel_kort": "Middels eksponert kystslette med bratt fjell og jordbruksdominans"
     },
     {
+      "farge": "hsl(188, 14%, 87%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15729,6 +15986,7 @@
       "tittel_kort": "Middels eksponert kystslette med bratt fjell og tett bebyggelse"
     },
     {
+      "farge": "hsl(331, 52%, 85%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15787,6 +16045,7 @@
       "tittel_kort": "Middels eksponert kystslette med bratt fjell, høyt våtmarkspreg og jordbruksdominans"
     },
     {
+      "farge": "hsl(199, 33%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15845,6 +16104,7 @@
       "tittel_kort": "Eksponert kystslette"
     },
     {
+      "farge": "hsl(21, 64%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15903,6 +16163,7 @@
       "tittel_kort": "Eksponert kystslette med jordbruksdominans"
     },
     {
+      "farge": "hsl(199, 22%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -15961,6 +16222,7 @@
       "tittel_kort": "Eksponert kystslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(21, 51%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16019,6 +16281,7 @@
       "tittel_kort": "Eksponert kystslette med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(232, 37%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16077,6 +16340,7 @@
       "tittel_kort": "Eksponert kystslette med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(232, 30%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16135,6 +16399,7 @@
       "tittel_kort": "Eksponert kystslette med høyt våtmarkspreg og tett bebyggelse"
     },
     {
+      "farge": "hsl(199, 33%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16193,6 +16458,7 @@
       "tittel_kort": "Eksponert og småkupert kystslette"
     },
     {
+      "farge": "hsl(21, 64%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16251,6 +16517,7 @@
       "tittel_kort": "Eksponert og småkupert kystslette med jordbruksdominans"
     },
     {
+      "farge": "hsl(199, 22%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16309,6 +16576,7 @@
       "tittel_kort": "Eksponert og småkupert kystslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(21, 51%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16367,6 +16635,7 @@
       "tittel_kort": "Eksponert og småkupert kystslette med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(199, 17%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16425,6 +16694,7 @@
       "tittel_kort": "Eksponert og småkupert kystslette med by"
     },
     {
+      "farge": "hsl(232, 37%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16483,6 +16753,7 @@
       "tittel_kort": "Eksponert og småkupert kystslette med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(199, 33%, 87%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16541,6 +16812,7 @@
       "tittel_kort": "Eksponert kystslette med bratt fjell"
     },
     {
+      "farge": "hsl(199, 22%, 87%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16599,6 +16871,7 @@
       "tittel_kort": "Eksponert kystslette med bratt fjell og tett bebyggelse"
     },
     {
+      "farge": "hsl(210, 45%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16657,6 +16930,7 @@
       "tittel_kort": "Svært eksponert kystslette"
     },
     {
+      "farge": "hsl(10, 70%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16715,6 +16989,7 @@
       "tittel_kort": "Svært eksponert kystslette med jordbruksdominans"
     },
     {
+      "farge": "hsl(210, 30%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16773,6 +17048,7 @@
       "tittel_kort": "Svært eksponert kystslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(238, 43%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16831,6 +17107,7 @@
       "tittel_kort": "Svært eksponert kystslette med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(238, 34%, 64%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16889,6 +17166,7 @@
       "tittel_kort": "Svært eksponert kystslette med høyt våtmarkspreg og tett bebyggelse"
     },
     {
+      "farge": "hsl(210, 45%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -16947,6 +17225,7 @@
       "tittel_kort": "Svært eksponert og småkupert kystslette"
     },
     {
+      "farge": "hsl(210, 30%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -17005,6 +17284,7 @@
       "tittel_kort": "Svært eksponert og småkupert kystslette med tett bebyggelse"
     },
     {
+      "farge": "hsl(10, 56%, 75%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -17063,6 +17343,7 @@
       "tittel_kort": "Svært eksponert og småkupert kystslette med tett bebyggelse  og jordbruksdominans"
     },
     {
+      "farge": "hsl(210, 22%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -17121,6 +17402,7 @@
       "tittel_kort": "Svært eksponert og småkupert kystslette med by"
     },
     {
+      "farge": "hsl(238, 43%, 76%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -17179,6 +17461,7 @@
       "tittel_kort": "Svært eksponert og småkupert kystslette med høyt våtmarkspreg"
     },
     {
+      "farge": "hsl(210, 45%, 87%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -17237,6 +17520,7 @@
       "tittel_kort": "Svært eksponert kystslette med bratt fjell"
     },
     {
+      "farge": "hsl(238, 43%, 87%)",
       "foreldre": [
         "NN-LA-TI-K-S"
       ],
@@ -17344,6 +17628,7 @@
       "tittel_kort": "Kystås- og kystfjellandskap"
     },
     {
+      "farge": "hsl(200, 80%, 70%)",
       "foreldre": [
         "NN-LA-TI-M"
       ],
@@ -17372,6 +17657,7 @@
       "tittel_kort": "Marine ås- og fjellandskap"
     },
     {
+      "farge": "hsl(200, 60%, 40%)",
       "foreldre": [
         "NN-LA-TI-M"
       ],
@@ -17400,6 +17686,7 @@
       "tittel_kort": "Marine dallandskap"
     },
     {
+      "farge": "hsl(200, 70%, 60%)",
       "foreldre": [
         "NN-LA-TI-M"
       ],
@@ -17428,366 +17715,489 @@
       "tittel_kort": "Marine sletter"
     },
     {
-      "foreldre": [
-        "NN-LA-KLG-AI"
-      ],
-      "ingress": "Landskapet er i liten grad preget av menneskelig aktivitet, bebyggelse og infrastruktur, selv om enkelte bygninger og linjeinngrep som veier og kraftledninger kan forekomme.",
-      "intervall": {
-        "max": "6",
-        "maxTekst": "6",
-        "min": "0",
-        "minTekst": "0",
-        "måleenhet": ""
+      "farge": "#4b909e",
+      "foreldre": [],
+      "infoUrl": "https://artsdatabanken.no/nin/landskap",
+      "ingress": "Landskapstypeinndelingen skiller mellom ulike typer av øko-landskap; enheter som kjennetegnes ved likheter i store landformer og terrengvariasjon, som bestemmer hvilke landskapsdel- og natursystem-typer som forekommer der.",
+      "kart": {
+        "presisjon": 100
       },
-      "kode": "NN-LA-KLG-AI-1",
-      "max": "<6",
-      "min": "<6",
+      "kode": "NN-LA",
       "tittel": {
-        "nb": "Lav arealbruksintensitet"
-      },
-      "type": "gradientverdi"
+        "nb": "Landskap"
+      }
     },
     {
+      "farge": "#91cf60",
       "foreldre": [
-        "NN-LA-KLG-AI"
+        "NN-LA-TI-AP"
       ],
-      "ingress": "Landskapet har et tydelig preg av menneskelig påvirkning. Mer enn 2 km² eller mer enn en fjerdedel av området har spredt bebyggelse, gårdsbruk, næringsområder, større samferdselsannlegg, flyplasser med større gressarealer, konsentrasjoner av bebyggelse eller teknisk infrastruktur i form av grender, bygder, små tettsteder, bolig og hyttefelt.",
+      "infoUrl": "",
+      "ingress": "Naturlandskap brukes om landskap hvor de naturlige, økologiske prosesser er dominerende og hvor kulturpåvirkningen er liten og ubetydelig. Det kan være inngrep eller spor av inngrep, men økosystemet er lite endret.",
+      "kode": "NN-LA-TI-AP-NL",
+      "sortering": 1,
+      "tittel": {
+        "nb": "Naturlandskap"
+      },
+      "type": "flagg"
+    },
+    {
+      "farge": "#fc8d59",
+      "foreldre": [
+        "NN-LA-TI-AP"
+      ],
+      "infoUrl": "",
+      "ingress": "Kulturlandskap er landskap som i større eller mindre grad er påvirka av mennesker.",
+      "kode": "NN-LA-TI-AP-AL",
+      "sortering": 2,
+      "tittel": {
+        "nb": "Arealbrukspreget landskapstype"
+      },
+      "type": "flagg"
+    },
+    {
+      "farge": "#f80",
+      "foreldre": [
+        "NN-LA-KLG"
+      ],
+      "ingress": "Landskapsgradient som indikerer grad av menneskelig påvirkning og arealbruksintensitet i landskapet over tid, uttrykt gjennom mengde og tetthet av bygninger, infrastruktur og andre utbygde områder. Gradienten omfatter variasjon fra naturområder med liten menneskelig påvirkning/ekstensiv arealbruk, via områder med spredt bosetting og spredt infrastruktur til utbygde og urbaniserte områder som tettsteder og byer.",
+      "kart": {
+        "format": {
+          "raster_gradient": {
+            "intervall": {
+              "normalisertVerdi": [
+                1,
+                255
+              ],
+              "original": [
+                0,
+                13.228172302246
+              ]
+            },
+            "visning": [
+              "diskret",
+              "kontinuerlig"
+            ]
+          }
+        }
+      },
+      "kode": "NN-LA-KLG-AI",
+      "måleenhet": "",
+      "tittel": {
+        "nb": "Arealbruksintensitet"
+      },
+      "type": "gradient"
+    },
+    {
+      "farge": "#f00",
+      "farge0": "#888",
+      "foreldre": [
+        "NN-LA-KLG"
+      ],
+      "ingress": "Landskapsgradient som indikerer grad av menneskelig påvirkning og arealbruksintensitet i landskapet over tid, uttrykt gjennom mengde og tetthet av bygninger, infrastruktur og andre utbygde områder. Gradienten omfatter variasjon fra naturområder med liten menneskelig påvirkning/ekstensiv arealbruk, via områder med spredt bosetting og spredt infrastruktur til utbygde og urbaniserte områder som tettsteder og byer. Gradienten er identisk med gradienten ‘arealbruksintensitet’ som benyttes i øvrige hovedtyper, men i kystslettelandskapet er gradienten delt i kun tre tre trinn, fordi mye av variasjonen langs gradienten er fanget opp av gradienten indre-ytre kyst.",
+      "kart": {
+        "format": {
+          "raster_gradient": {
+            "intervall": {
+              "normalisertVerdi": [
+                1,
+                255
+              ],
+              "original": [
+                0,
+                13.228172302246
+              ]
+            },
+            "visning": [
+              "diskret",
+              "kontinuerlig"
+            ]
+          }
+        }
+      },
+      "kode": "NN-LA-KLG-AIKS",
+      "måleenhet": "",
+      "sortering": 4,
+      "tittel": {
+        "nb": "Arealbruksintensitet i kystslettelandskap"
+      },
+      "type": "gradient"
+    },
+    {
+      "farge": "#5ab4ac",
+      "foreldre": [
+        "NN-LA-KLG"
+      ],
+      "ingress": "Landskapsgradient som skiller kystnære innlandssletter fra øvrige innlandssletter (inkl. fjellvidder), basert på variasjon i landskapselementer. De kystnære innlandsslettene ligger mindre enn 6 kilometer fra kystlinjen, og  sammensetningen av landskapselementer er som oftest preget av kystnær beliggenhet. De kystnære innlandsslettene er i geomorfologisk forstand er normalt en del av strandflaten. Andre innlandssletter omfatter både lavlandssletter, fjellvidder og forfjellsvidder som i større grad har ‘innlandsegenskaper’.",
+      "kart": {
+        "format": {
+          "raster_gradient": {
+            "intervall": {
+              "normalisertVerdi": [
+                1,
+                255
+              ],
+              "original": [
+                0,
+                210.64946875
+              ]
+            },
+            "visning": [
+              "diskret",
+              "kontinuerlig"
+            ]
+          }
+        }
+      },
+      "kode": "NN-LA-KLG-KA",
+      "måleenhet": "km",
+      "tittel": {
+        "nb": "Kystavstand"
+      },
+      "type": "gradient"
+    },
+    {
+      "farge": "hsl(20, 75%, 65%)",
+      "foreldre": [
+        "NN-LA-KLG"
+      ],
+      "ingress": "I hvor stor grad landskapet er dominert av jordbruk, gjennom andel dyrket mark.",
+      "kart": {
+        "format": {
+          "raster_gradient": {
+            "intervall": {
+              "normalisertVerdi": [
+                0,
+                255
+              ],
+              "original": [
+                0,
+                1
+              ]
+            },
+            "visning": [
+              "diskret",
+              "kontinuerlig"
+            ]
+          }
+        }
+      },
+      "kode": "NN-LA-KLG-JP",
+      "måleenhet": "%",
+      "tittel": {
+        "nb": "Jordbrukspreg"
+      },
+      "type": "gradient"
+    },
+    {
+      "farge": "#f48",
+      "farge0": "#fff",
+      "foreldre": [
+        "NN-LA-KLG"
+      ],
+      "ingress": "Gradient som uttrykker i hvor stor grad landskapet er preget av myrer, våtmarker og mindre ferskvann (tjern, putt, o.l.).",
+      "kart": {
+        "format": {
+          "raster_gradient": {
+            "intervall": {
+              "normalisertVerdi": [
+                1,
+                255
+              ],
+              "original": [
+                0,
+                2
+              ]
+            },
+            "visning": [
+              "diskret",
+              "kontinuerlig"
+            ]
+          }
+        }
+      },
+      "kode": "NN-LA-KLG-VP",
+      "måleenhet": "",
+      "tittel": {
+        "nb": "Våtmarkspreg"
+      },
+      "type": "gradient"
+    },
+    {
+      "farge": "hsl(273, 90%, 50%)",
+      "farge0": "hsl(185, 0%, 90%)",
+      "foreldre": [
+        "NN-LA-KLG"
+      ],
+      "ingress": "Gradient som beskriver terrengvariasjon og landformer i innlandsås- og fjellandskap. Gradienten beskriver gradvis variasjon fra slakt og småkupert ås- og fjellandskap, via kupert ås- og fjellandskap til ås- og fjellandskap med ekstrem terrengvariasjon over korte avstander med tinder, egger og stup.",
+      "kode": "NN-LA-KLG-REIA",
+      "måleenhet": "",
+      "tittel": {
+        "nb": "Relieff i innlandsås- og fjellandskap"
+      },
+      "type": "gradient"
+    },
+    {
+      "fargebidrag": "hsl(185, 0%, 80%)",
+      "foreldre": [
+        "NN-LA-KLG-REIA"
+      ],
+      "ingress": "Landskapstypen omfatter dal- eller skålformede deler av ås- og fjellandskapet, som ikke er store eller nedskårne nok til å inkluderes i hovedtypen dallandskap.",
       "intervall": {
-        "max": "11.7",
-        "maxTekst": "11.7",
-        "min": "6",
-        "minTekst": "6",
+        "max": "",
+        "maxTekst": "",
+        "min": "",
+        "minTekst": "TPI6<0",
         "måleenhet": ""
       },
-      "kode": "NN-LA-KLG-AI-2",
-      "max": "<11.7",
-      "min": "<11.7",
+      "kode": "NN-LA-KLG-REIA-1",
+      "max": "TPI6<0",
+      "min": "TPI6<0",
       "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3EL"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3TO"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-V1"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-V2"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-V3"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-L"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-F"
+        },
         {
           "kant": "Gradient-tyngdepunkt for landskapselement",
           "kantRetur": "Gradient-tyngdepunkt i landskap",
-          "kode": "NN-NA-TI-T40"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T35"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T37"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T39"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T42"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T43"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T44"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T45"
-        }
-      ],
-      "tittel": {
-        "nb": "Bebygde områder"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-AI"
-      ],
-      "ingress": "Landskapet er tydelig preget av intensiv arealbruk med et større tettsted, småby eller fritidsbebyggelse med høy bygningstetthet.",
-      "intervall": {
-        "max": "13",
-        "maxTekst": "13",
-        "min": "11.7",
-        "minTekst": "11.7",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-AI-3",
-      "max": "<13",
-      "min": "<13",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T35"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T37"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T39"
+          "kode": "NN-NA-BS-3TO-HK"
         },
         {
           "kant": "Gradient-tyngdepunkt for landskapselement",
           "kantRetur": "Gradient-tyngdepunkt i landskap",
-          "kode": "NN-NA-TI-T40"
+          "kode": "NN-NA-BS-3TO-HE"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T40"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T42"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T43"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T44"
-        }
-      ],
-      "tittel": {
-        "nb": "Tettbebyggelse"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-AI"
-      ],
-      "ingress": "Landskapet er urbanisert med bykjerne i større by.",
-      "intervall": {
-        "max": "13.228172302246",
-        "maxTekst": "",
-        "min": "13",
-        "minTekst": "13",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-AI-4",
-      "max": ">13",
-      "min": ">13",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T35"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T37"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T39"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T42"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T43"
-        }
-      ],
-      "tittel": {
-        "nb": "By"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-AIKS"
-      ],
-      "ingress": "Områdene har lav til middels arealbruksintensitet, fra områder helt uten bebyggelse og infrastruktur til mindre grender, fiskevær, samlinger av fritidsbebyggelse og næringsvirksomhet. Større samferdselsannlegg og  flyplasser med større gressarealer kan inngå. Omfanget av bebyggelse, infrastruktur og menneskelig arealbruk samvarierer oftest med eksponering mot vind og bølger fra åpent hav (landskapsgradient indre-ytre kyst).",
-      "intervall": {
-        "max": "11.7",
-        "maxTekst": "11.7",
-        "min": "0",
-        "minTekst": "0",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-AIKS-1",
-      "max": "<11.7",
-      "min": "<11.7",
-      "tittel": {
-        "nb": "Lav til middels arealbruksintensitet"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-AIKS"
-      ],
-      "ingress": "Landskapet er tydelig preget av menneskelig arealbruk, med et større tettsted, småby eller konsentrasjoner av fritidsbebyggelse med høy bygningstetthet.",
-      "intervall": {
-        "max": "13",
-        "maxTekst": "13",
-        "min": "11.7",
-        "minTekst": "11.7",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-AIKS-2",
-      "max": "<13",
-      "min": "<13",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T35"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T37"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T39"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T40"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T42"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T43"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T44"
-        }
-      ],
-      "tittel": {
-        "nb": "Tettbebyggelse"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-AIKS"
-      ],
-      "ingress": "Landskapet er urbanisert med bykjerne i større by.",
-      "intervall": {
-        "max": "13.228172302246",
-        "maxTekst": "",
-        "min": "13",
-        "minTekst": "13",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-AIKS-3",
-      "max": ">13",
-      "min": ">13",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T35"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T37"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T39"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T42"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T43"
-        }
-      ],
-      "tittel": {
-        "nb": "By"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-BP"
-      ],
-      "ingress": "",
-      "intervall": {
-        "max": "0.25",
-        "maxTekst": "25",
-        "min": "0",
-        "minTekst": "0",
-        "måleenhet": "%"
-      },
-      "kode": "NN-LA-KLG-BP-1",
-      "max": "< 25",
-      "min": "< 25",
-      "tittel": {
-        "nb": "Ikke isbredominert"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-BP"
-      ],
-      "ingress": "Områdene av typen har isbre som er større enn 2 km², eller som dekker mer enn en fjerdedel området.",
-      "intervall": {
-        "max": "1",
-        "maxTekst": "",
-        "min": "0.25",
-        "minTekst": "25",
-        "måleenhet": "%"
-      },
-      "kode": "NN-LA-KLG-BP-2",
-      "max": "> 25",
-      "min": "> 25",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
           "kode": "NN-NA-BS-3AB"
         },
         {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3AR"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3ER"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3TO"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T18"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T30"
+        }
+      ],
+      "tittel": {
+        "nb": "Dalformet"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "fargebidrag": "hsl(185, 0%, 84%)",
+      "foreldre": [
+        "NN-LA-KLG-REIA"
+      ],
+      "ingress": "Landskapstypen omfatter slake og småkuperte ås- og fjellandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 100 meter  innenfor avstander på 1 km.",
+      "intervall": {
+        "max": "",
+        "maxTekst": "",
+        "min": "",
+        "minTekst": "RR<100",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REIA-2",
+      "max": "RR<100",
+      "min": "RR<100",
+      "relasjon": [
+        {
           "kant": "Dominerende landskapselement",
           "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3BF"
+          "kode": "NN-NA-BS-3EB"
         },
+        {
+          "kant": "Gradient-tyngdepunkt for landskapselement",
+          "kantRetur": "Gradient-tyngdepunkt i landskap",
+          "kode": "NN-NA-BS-3TO-HE"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3AB"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3TO"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-V1"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-V2"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-V3"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-L"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-F"
+        }
+      ],
+      "tittel": {
+        "nb": "Slakt til småkupert"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "fargebidrag": "hsl(185, 0%, 88%)",
+      "foreldre": [
+        "NN-LA-KLG-REIA"
+      ],
+      "ingress": "Landskapstypen omfatter middels kuperte ås- og fjellandskap med høydeforskjeller mellom 100 og 250 meter  innenfor avstander på 1 km.",
+      "intervall": {
+        "max": "",
+        "maxTekst": "",
+        "min": "",
+        "minTekst": "250>RR>100",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REIA-3",
+      "max": "250>RR>100",
+      "min": "250>RR>100",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3EB"
+        },
+        {
+          "kant": "Gradient-tyngdepunkt for landskapselement",
+          "kantRetur": "Gradient-tyngdepunkt i landskap",
+          "kode": "NN-NA-TI-V4"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3AB"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3TO"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3TO-BA"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-V1"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-L"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-F"
+        }
+      ],
+      "tittel": {
+        "nb": "Middels kupert"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "fargebidrag": "hsl(185, 0%, 92%)",
+      "foreldre": [
+        "NN-LA-KLG-REIA"
+      ],
+      "ingress": "Landskapstypen omfatter kupert ås- og fjellandskap med høydeforskjeller større enn 250 meter innenfor avstander på 1 km.",
+      "intervall": {
+        "max": "",
+        "maxTekst": "",
+        "min": "",
+        "minTekst": "RR>250",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REIA-4",
+      "max": "RR>250",
+      "min": "RR>250",
+      "relasjon": [
         {
           "kant": "Dominerende landskapselement",
           "kantRetur": "Dominerende i landskap",
@@ -17796,12 +18206,127 @@
         {
           "kant": "Dominerende landskapselement",
           "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-I1"
+          "kode": "NN-NA-TI-T1"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3ML"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T13"
+        }
+      ],
+      "tittel": {
+        "nb": "Kupert"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "fargebidrag": "hsl(185, 0%, 96%)",
+      "foreldre": [
+        "NN-LA-KLG-REIA"
+      ],
+      "ingress": "Landskapstypen omfatter kupert ås- og fjellandskap med høydeforskjeller større enn 250 meter innenfor avstander på 1 km, og som i tillegg har tinder, egger og/eller svært bratte ås- eller fjellpartier, med stor terrengvariasjon innenfor små avstander.",
+      "intervall": {
+        "max": "",
+        "maxTekst": "",
+        "min": "",
+        "minTekst": "tp1>125 hoh>300 and sink in inverse dem.",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REIA-5",
+      "max": "tp1>125 hoh>300 and sink in inverse dem.",
+      "min": "tp1>125 hoh>300 and sink in inverse dem.",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3EB"
         },
         {
           "kant": "Dominerende landskapselement",
           "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T26"
+          "kode": "NN-NA-TI-T1"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3ML"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T13"
+        }
+      ],
+      "tittel": {
+        "nb": "Tindepreg"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "farge": "hsl(273, 90%, 50%)",
+      "farge0": "hsl(185, 0%, 90%)",
+      "foreldre": [
+        "NN-LA-KLG"
+      ],
+      "ingress": "Gradient som beskriver terrengvariasjon og landformer i dal- og fjordlandskapet. Gradienten beskriver gradvis variasjon fra vide åpne daler/fjorder med slakt terreng, til trange og sterkt nedskårne daler/fjorder med ekstrem terrengvariasjon over korte avstander.",
+      "kode": "NN-LA-KLG-REIDKF",
+      "måleenhet": "",
+      "tittel": {
+        "nb": "Relieff i innlandsdal og fjordlandskap"
+      },
+      "type": "gradient"
+    },
+    {
+      "fargebidrag": "hsl(190, 10%, 83%)",
+      "foreldre": [
+        "NN-LA-KLG-REIDKF"
+      ],
+      "ingress": "Landskapstypen omfatter dallandskap der dalformen er vid og åpen, med en gradvis og slak overgang til omkringliggende åser, fjell og/eller slettelandskap.",
+      "intervall": {
+        "max": "",
+        "maxTekst": "",
+        "min": "0.5",
+        "minTekst": "0.5",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REIDKF-1",
+      "max": "> 0.5",
+      "min": "> 0.5",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3EB"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-M"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-H"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3AB"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -17816,54 +18341,7 @@
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3ER"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3FP"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-L"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-F"
-        }
-      ],
-      "tittel": {
-        "nb": "Isbredominert"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-IYK"
-      ],
-      "ingress": "Typen omfatter landskap på den indre delen av kystsletta, ofte på innsiden av større øyer eller i kystslette innover mot fjordene som i større grad er skjermet for bølge- og vindeksponering fra åpent hav. Landområdene har ‘innlandsegenskaper‘ i form av forekmst av vassdrag og økt arealbruksintensitet.",
-      "intervall": {
-        "max": "2.2",
-        "maxTekst": "2.2",
-        "min": "0",
-        "minTekst": "0",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-IYK-1",
-      "max": "< 2.2",
-      "min": "< 2.2",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T4"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AB"
+          "kode": "NN-NA-BS-3ML"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -17878,12 +18356,12 @@
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T11"
+          "kode": "NN-NA-TI-T12"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T12"
+          "kode": "NN-NA-TI-T21"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -17894,58 +18372,455 @@
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
           "kode": "NN-NA-TI-T29"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T31"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T33"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T34"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T38"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T4"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-V8"
         }
       ],
       "tittel": {
-        "nb": "Skjermet indre kyst"
+        "nb": "Åpen"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        0.1,
+        0,
+        1
+      ]
     },
     {
+      "fargebidrag": "hsl(190, 10%, 75%)",
+      "foreldre": [
+        "NN-LA-KLG-REIDKF"
+      ],
+      "ingress": "Landskapstypen omfatter dallandskap der dalformen er relativt åpen og middels sterkt nedskåret fra omkringliggende åser, fjell og/eller slettelandskap.",
+      "intervall": {
+        "max": "0.5",
+        "maxTekst": "",
+        "min": "0.3",
+        "minTekst": "0.3",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REIDKF-2",
+      "max": "> 0.3",
+      "min": "> 0.3",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3EB"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-M"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-H"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3AB"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3AR"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3EB"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3EL"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3ML"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3KP"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T6"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T12"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T21"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T29"
+        }
+      ],
+      "tittel": {
+        "nb": "Relativt åpen"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0.1,
+        0,
+        1
+      ]
+    },
+    {
+      "fargebidrag": "hsl(190, 10%, 67%)",
+      "foreldre": [
+        "NN-LA-KLG-REIDKF"
+      ],
+      "ingress": "Landskapstypen omfatter dallandskap der dalformen er smal og dypt nedskåret fra omkringliggende åser, fjell og/ellerslettelandskap.",
+      "intervall": {
+        "max": "0.3",
+        "maxTekst": "",
+        "min": "0.13",
+        "minTekst": "0.13",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REIDKF-3",
+      "max": "> 0.13",
+      "min": "> 0.13",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3EB"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-M"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-H"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T6"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T1"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T12"
+        }
+      ],
+      "tittel": {
+        "nb": "Nedskåret"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "fargebidrag": "hsl(190, 10%, 60%)",
+      "foreldre": [
+        "NN-LA-KLG-REIDKF"
+      ],
+      "ingress": "Landskapstypen omfatter dallandskap der dalformen er svært smal og/eller svært dypt nedskåret fra omkringliggende åser, fjell og/eller slettelandskap.",
+      "intervall": {
+        "max": "0.13",
+        "maxTekst": "0.13",
+        "min": "0",
+        "minTekst": "",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REIDKF-4",
+      "max": "< 0.13",
+      "min": "< 0.13",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3EB"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-M"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-H"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T1"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3EL"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3ML"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3KP"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3MR"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3AR"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T6"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T13"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T15"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T16"
+        }
+      ],
+      "tittel": {
+        "nb": "Dypt nedskåret"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "farge": "hsl(273, 90%, 50%)",
+      "farge0": "hsl(185, 0%, 90%)",
+      "foreldre": [
+        "NN-LA-KLG"
+      ],
+      "ingress": "Beskriver grov-skala terrengform.",
+      "kode": "NN-LA-KLG-REKS",
+      "måleenhet": "",
+      "tittel": {
+        "nb": "Relieff i kystslettelandskap"
+      },
+      "type": "gradient"
+    },
+    {
+      "fargebidrag": "hsl(222,0%, 64%)",
+      "foreldre": [
+        "NN-LA-KLG-REKS"
+      ],
+      "ingress": "Områdene er tilnærmet flate, med liten terrenguro og med grunne havområder.",
+      "intervall": {
+        "max": "",
+        "maxTekst": "",
+        "min": "",
+        "minTekst": "< 0.62",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REKS-1",
+      "max": "< 0.62",
+      "min": "< 0.62",
+      "relasjon": [
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T1"
+        }
+      ],
+      "tittel": {
+        "nb": "Slak"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "fargebidrag": "hsl(222,0%, 76%)",
+      "foreldre": [
+        "NN-LA-KLG-REKS"
+      ],
+      "ingress": "Områdene hører til den mer kuperte delen av kystsletta med vekslende terreng over og under havnivå.",
+      "intervall": {
+        "max": "",
+        "maxTekst": "",
+        "min": "",
+        "minTekst": "> 0.62",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REKS-2",
+      "max": "> 0.62",
+      "min": "> 0.62",
+      "relasjon": [
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3ML"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T1"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T8"
+        }
+      ],
+      "tittel": {
+        "nb": "Middels kupert"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "fargebidrag": "hsl(222,0%, 87%)",
+      "foreldre": [
+        "NN-LA-KLG-REKS"
+      ],
+      "ingress": "Områdene har bratte åser eller ‘restfjell’ som står høyere enn kystslettelandskapet omkring, med en brem av lavt/flatt land omkring.",
+      "intervall": {
+        "max": "",
+        "maxTekst": "",
+        "min": "",
+        "minTekst": "TPI > 10",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-REKS-3",
+      "max": "TPI > 10",
+      "min": "TPI > 10",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T1"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3ML"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T13"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T5"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T8"
+        }
+      ],
+      "tittel": {
+        "nb": "Bratte åser, restfjell, klipper og stup"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "farge": "hsl(210, 45%, 60%)",
+      "farge0": "hsl(177, 11%, 60%)",
+      "foreldre": [
+        "NN-LA-KLG"
+      ],
+      "ingress": "Gradient som uttrykker gradvis variasjon i landskapsegenskaper fra indre til ytre kyst. De ytterste områdene er direkte eksponert mot vind og bølger fra åpnet hav, mens de indre delene ligger mer beskyttet i lune viker, på innsiden av større øyer og innover mot/i fjordene. Indre områder har også ‘innlandsegenskaper’ knyttet til øystørrelse (indre deler av større øyer), med tilhørende større nedbørfelt, flere vassdrag og ofte også økende grad av menneskelig påvirkning og arealbruksintensitet.",
+      "kart": {
+        "format": {
+          "raster_gradient": {
+            "intervall": {
+              "normalisertVerdi": [
+                1,
+                255
+              ],
+              "original": [
+                0,
+                2.815
+              ]
+            },
+            "visning": [
+              "klasser"
+            ]
+          }
+        }
+      },
+      "kode": "NN-LA-KLG-IYK",
+      "måleenhet": "",
+      "tittel": {
+        "nb": "Indre ytre kyst"
+      },
+      "type": "gradient"
+    },
+    {
+      "farge": "hsl(210, 45%, 45%)",
+      "fargebidrag": "hsl(210, 45%, 45%)",
       "foreldre": [
         "NN-LA-KLG-IYK"
       ],
-      "ingress": "Typen omfatter områder på kystsletta med tilhørende grunne marine områder som ikke er direkte eksponert mot åpent hav. Sammenlignet med områder på ytre kyst, har landområdene i typen større grad har ‘innlandsegenskaper’ i form av større nedbørfelt, forekomst av vassdrag, økt arealbruksintensitet, m.m.",
+      "ingress": "Typen omfatter små til mellomstore øyer holmer og skjær på den ytterste delen av kystsletta, med tilhørende grunne marine områder. Områdene er ekstremt sterkt eksponert mot bølger og vind fra åpent hav.",
       "intervall": {
-        "max": "2.4",
-        "maxTekst": "2.4",
-        "min": "2.2",
-        "minTekst": "2.2",
+        "max": "2.815",
+        "maxTekst": "2.815",
+        "min": "2.6",
+        "minTekst": "2.6",
         "måleenhet": ""
       },
-      "kode": "NN-LA-KLG-IYK-2",
-      "max": "< 2.4",
-      "min": "< 2.4",
+      "kode": "NN-LA-KLG-IYK-4",
+      "max": "< 2.815",
+      "min": "< 2.815",
       "relasjon": [
         {
           "kant": "Dominerende landskapselement",
@@ -17960,22 +18835,12 @@
         {
           "kant": "Dominerende landskapselement",
           "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T4"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
           "kode": "NN-NA-TI-T6"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AB"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3EL"
+          "kode": "NN-NA-BS-3EB"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -17985,27 +18850,7 @@
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3VI"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
           "kode": "NN-NA-TI-T11"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T12"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T2"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T6"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -18025,7 +18870,7 @@
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T31"
+          "kode": "NN-NA-TI-T2"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -18036,24 +18881,21 @@
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
           "kode": "NN-NA-TI-T34"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T38"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T4"
         }
       ],
       "tittel": {
-        "nb": "Middels eksponert kyst"
+        "nb": "Svært eksponert ytre kyst"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        0
+      ]
     },
     {
+      "farge": "hsl(210, 35%, 50%)",
+      "fargebidrag": "hsl(199, 33%, 50%)",
       "foreldre": [
         "NN-LA-KLG-IYK"
       ],
@@ -18173,23 +19015,30 @@
       "tittel": {
         "nb": "Eksponert ytre kyst"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        0
+      ]
     },
     {
+      "farge": "hsl(210, 25%, 75%)",
+      "fargebidrag": "hsl(188, 21%, 55%)",
       "foreldre": [
         "NN-LA-KLG-IYK"
       ],
-      "ingress": "Typen omfatter små til mellomstore øyer holmer og skjær på den ytterste delen av kystsletta, med tilhørende grunne marine områder. Områdene er ekstremt sterkt eksponert mot bølger og vind fra åpent hav.",
+      "ingress": "Typen omfatter områder på kystsletta med tilhørende grunne marine områder som ikke er direkte eksponert mot åpent hav. Sammenlignet med områder på ytre kyst, har landområdene i typen større grad har ‘innlandsegenskaper’ i form av større nedbørfelt, forekomst av vassdrag, økt arealbruksintensitet, m.m.",
       "intervall": {
-        "max": "2.815",
-        "maxTekst": "2.815",
-        "min": "2.6",
-        "minTekst": "2.6",
+        "max": "2.4",
+        "maxTekst": "2.4",
+        "min": "2.2",
+        "minTekst": "2.2",
         "måleenhet": ""
       },
-      "kode": "NN-LA-KLG-IYK-4",
-      "max": "< 2.815",
-      "min": "< 2.815",
+      "kode": "NN-LA-KLG-IYK-2",
+      "max": "< 2.4",
+      "min": "< 2.4",
       "relasjon": [
         {
           "kant": "Dominerende landskapselement",
@@ -18204,12 +19053,22 @@
         {
           "kant": "Dominerende landskapselement",
           "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T4"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
           "kode": "NN-NA-TI-T6"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3EB"
+          "kode": "NN-NA-BS-3AB"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3EL"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -18219,7 +19078,27 @@
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3VI"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
           "kode": "NN-NA-TI-T11"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T12"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T2"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T6"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -18239,7 +19118,7 @@
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T2"
+          "kode": "NN-NA-TI-T31"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -18250,394 +19129,50 @@
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
           "kode": "NN-NA-TI-T34"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T38"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T4"
         }
       ],
       "tittel": {
-        "nb": "Svært eksponert ytre kyst"
+        "nb": "Middels eksponert kyst"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        0
+      ]
     },
     {
+      "farge": "hsl(210, 15%, 90%)",
+      "fargebidrag": "hsl(177, 11%, 60%)",
       "foreldre": [
-        "NN-LA-KLG-IP"
+        "NN-LA-KLG-IYK"
       ],
-      "ingress": "Områdene har mindre tydelig innsjøpreg, og ingen vann/innsjøer som er større enn 2 km². Områdene har normalt både elver og mindre innsjøer.",
+      "ingress": "Typen omfatter landskap på den indre delen av kystsletta, ofte på innsiden av større øyer eller i kystslette innover mot fjordene som i større grad er skjermet for bølge- og vindeksponering fra åpent hav. Landområdene har ‘innlandsegenskaper‘ i form av forekmst av vassdrag og økt arealbruksintensitet.",
       "intervall": {
-        "max": "2",
-        "maxTekst": "2",
+        "max": "2.2",
+        "maxTekst": "2.2",
         "min": "0",
         "minTekst": "0",
-        "måleenhet": "km²"
-      },
-      "kode": "NN-LA-KLG-IP-1",
-      "max": "< 2 km²",
-      "min": "< 2 km²",
-      "relasjon": [
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-L"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-F"
-        }
-      ],
-      "tittel": {
-        "nb": "Uten stor innsjø"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-IP"
-      ],
-      "ingress": "Områder av typen ligger ved innsjø som er større enn 2 km².",
-      "intervall": {
-        "max": "8",
-        "maxTekst": "8",
-        "min": "2",
-        "minTekst": "2",
-        "måleenhet": "km²"
-      },
-      "kode": "NN-LA-KLG-IP-2",
-      "max": "2 > km²",
-      "min": "2 > km²",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-L"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-F"
-        }
-      ],
-      "tittel": {
-        "nb": "Middels stor innsjø"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-IP"
-      ],
-      "ingress": "Områder av typen ligger ved innsjø som er større enn 8 km².",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "8",
-        "minTekst": "8",
-        "måleenhet": "km²"
-      },
-      "kode": "NN-LA-KLG-IP-3",
-      "max": "8 > km²",
-      "min": "8 > km²",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-L"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-F"
-        },
-        {
-          "kant": "Gradient-tyngdepunkt for landskapselement",
-          "kantRetur": "Gradient-tyngdepunkt i landskap",
-          "kode": "NN-NA-TI-T23"
-        }
-      ],
-      "tittel": {
-        "nb": "Større innsjø"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-JP"
-      ],
-      "ingress": "",
-      "intervall": {
-        "max": "0.25",
-        "maxTekst": "25",
-        "min": "0",
-        "minTekst": "0",
-        "måleenhet": "%"
-      },
-      "kode": "NN-LA-KLG-JP-1",
-      "max": "< 0.25",
-      "min": "< 0.25",
-      "tittel": {
-        "nb": "Ikke jordbruksdominert"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-JP"
-      ],
-      "ingress": "Jordbruk er den dominerende arealbruken i området.",
-      "intervall": {
-        "max": "1",
-        "maxTekst": "100",
-        "min": "0.25",
-        "minTekst": "25",
-        "måleenhet": "%"
-      },
-      "kode": "NN-LA-KLG-JP-2",
-      "max": "> 0.25",
-      "min": "> 0.25",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T44"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T45"
-        },
-        {
-          "kant": "Gradient-tyngdepunkt for landskapselement",
-          "kantRetur": "Gradient-tyngdepunkt i landskap",
-          "kode": "NN-NA-TI-T41"
-        },
-        {
-          "kant": "Gradient-tyngdepunkt for landskapselement",
-          "kantRetur": "Gradient-tyngdepunkt i landskap",
-          "kode": "NN-NA-TI-T32"
-        }
-      ],
-      "tittel": {
-        "nb": "Jordbruksdominert"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-KA"
-      ],
-      "ingress": "Områdene hører til hovedtypen innlandsslettelandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 50 meter  innenfor avstander på 1 km. Områdene av typen ligger nær kysten (mindre enn 6 km) og grenser ofte til kystslettelandskap.",
-      "intervall": {
-        "max": "6",
-        "maxTekst": "6",
-        "min": "0",
-        "minTekst": "0",
-        "måleenhet": "km"
-      },
-      "kode": "NN-LA-KLG-KA-1",
-      "max": "< 6 km",
-      "min": "< 6 km",
-      "relasjon": [
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T34"
-        }
-      ],
-      "sortering": 1,
-      "tittel": {
-        "nb": "Kystnær"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-KA"
-      ],
-      "ingress": "Områdene hører til hovedtypen innlandsslettelandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 50 meter  innenfor avstander på 1 km. Områder av typen er innlandssletter/vidder med avstand til kysten som er større enn 6 km.",
-      "intervall": {
-        "max": "210.649",
-        "maxTekst": "210.649",
-        "min": "6",
-        "minTekst": "6",
-        "måleenhet": "km"
-      },
-      "kode": "NN-LA-KLG-KA-2",
-      "max": "> 6 km",
-      "min": "> 6 km",
-      "sortering": 2,
-      "tittel": {
-        "nb": "Ikke kystnær"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REIDKF"
-      ],
-      "ingress": "Landskapstypen omfatter dallandskap der dalformen er svært smal og/eller svært dypt nedskåret fra omkringliggende åser, fjell og/eller slettelandskap.",
-      "intervall": {
-        "max": "0.13",
-        "maxTekst": "0.13",
-        "min": "0",
-        "minTekst": "",
         "måleenhet": ""
       },
-      "kode": "NN-LA-KLG-REIDKF-4",
-      "max": "< 0.13",
-      "min": "< 0.13",
+      "kode": "NN-LA-KLG-IYK-1",
+      "max": "< 2.2",
+      "min": "< 2.2",
       "relasjon": [
         {
           "kant": "Dominerende landskapselement",
           "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3EB"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-M"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-H"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T1"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3EL"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3ML"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3KP"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3MR"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AR"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T6"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T13"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T15"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T16"
-        }
-      ],
-      "tittel": {
-        "nb": "Dypt nedskåret"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REIDKF"
-      ],
-      "ingress": "Landskapstypen omfatter dallandskap der dalformen er smal og dypt nedskåret fra omkringliggende åser, fjell og/ellerslettelandskap.",
-      "intervall": {
-        "max": "0.3",
-        "maxTekst": "",
-        "min": "0.13",
-        "minTekst": "0.13",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REIDKF-3",
-      "max": "> 0.13",
-      "min": "> 0.13",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3EB"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-M"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-H"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T6"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T1"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T12"
-        }
-      ],
-      "tittel": {
-        "nb": "Nedskåret"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REIDKF"
-      ],
-      "ingress": "Landskapstypen omfatter dallandskap der dalformen er relativt åpen og middels sterkt nedskåret fra omkringliggende åser, fjell og/eller slettelandskap.",
-      "intervall": {
-        "max": "0.5",
-        "maxTekst": "",
-        "min": "0.3",
-        "minTekst": "0.3",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REIDKF-2",
-      "max": "> 0.3",
-      "min": "> 0.3",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3EB"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-M"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-H"
+          "kode": "NN-NA-TI-T4"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -18647,26 +19182,6 @@
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AR"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3EB"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3EL"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3ML"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
           "kode": "NN-NA-BS-3KP"
         },
         {
@@ -18677,94 +19192,12 @@
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T12"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T21"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T29"
-        }
-      ],
-      "tittel": {
-        "nb": "Relativt åpen"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REIDKF"
-      ],
-      "ingress": "Landskapstypen omfatter dallandskap der dalformen er vid og åpen, med en gradvis og slak overgang til omkringliggende åser, fjell og/eller slettelandskap.",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "0.5",
-        "minTekst": "0.5",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REIDKF-1",
-      "max": "> 0.5",
-      "min": "> 0.5",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3EB"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-M"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-H"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AB"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AR"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3EL"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3ML"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3KP"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T6"
+          "kode": "NN-NA-TI-T11"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
           "kode": "NN-NA-TI-T12"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T21"
         },
         {
           "kant": "Vanlig forekommende landskapselement",
@@ -18775,436 +19208,84 @@
           "kant": "Vanlig forekommende landskapselement",
           "kantRetur": "Vanlig forekommende i landskap",
           "kode": "NN-NA-TI-T29"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T31"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T33"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T34"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T38"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T4"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-V8"
         }
       ],
       "tittel": {
-        "nb": "Åpen"
+        "nb": "Skjermet indre kyst"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        0
+      ]
     },
     {
+      "farge": "hsl(27, 11%, 60%)",
+      "farge0": "hsl(77, 51%, 60%)",
       "foreldre": [
-        "NN-LA-KLG-REIA"
+        "NN-LA-KLG"
       ],
-      "ingress": "Landskapstypen omfatter kupert ås- og fjellandskap med høydeforskjeller større enn 250 meter innenfor avstander på 1 km, og som i tillegg har tinder, egger og/eller svært bratte ås- eller fjellpartier, med stor terrengvariasjon innenfor små avstander.",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "",
-        "minTekst": "tp1>125 hoh>300 and sink in inverse dem.",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REIA-5",
-      "max": "tp1>125 hoh>300 and sink in inverse dem.",
-      "min": "tp1>125 hoh>300 and sink in inverse dem.",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3EB"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T1"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3ML"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T13"
+      "ingress": "Gradient som angir variasjon i vegetasjonsdekke fra områder under skoggrensen, via heilandskap til områder dominert av bart fjell og blokkmark. Variasjonen i vegetasjonsdekke gjenspeiler til dels regional klimatisk variasjon fra lavland til fjell (og arktiske strøk), men også klimatisk variasjon fra indre til ytre kyst, der den ytterste og mest eksponerte kysten normalt er uten skog og med sparsomt vegetasjonsdekke. Gradienten gjenspeiler også variasjon i grad av menneskelig påvirkning i form av husdyrbeite, slått og annen høsting av utmarksressurser.",
+      "kart": {
+        "format": {
+          "raster_gradient": {
+            "intervall": {
+              "normalisertVerdi": [
+                0,
+                5
+              ],
+              "original": [
+                0,
+                255
+              ]
+            },
+            "visning": [
+              "klasser"
+            ]
+          }
         }
-      ],
+      },
+      "kode": "NN-LA-KLG-VE",
+      "måleenhet": "",
       "tittel": {
-        "nb": "Tindepreg"
+        "nb": "Vegetasjon"
       },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REIA"
-      ],
-      "ingress": "Landskapstypen omfatter kupert ås- og fjellandskap med høydeforskjeller større enn 250 meter innenfor avstander på 1 km.",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "",
-        "minTekst": "RR>250",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REIA-4",
-      "max": "RR>250",
-      "min": "RR>250",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3EB"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T1"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3ML"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T13"
-        }
-      ],
-      "tittel": {
-        "nb": "Kupert"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REIA"
-      ],
-      "ingress": "Landskapstypen omfatter middels kuperte ås- og fjellandskap med høydeforskjeller mellom 100 og 250 meter  innenfor avstander på 1 km.",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "",
-        "minTekst": "250>RR>100",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REIA-3",
-      "max": "250>RR>100",
-      "min": "250>RR>100",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3EB"
-        },
-        {
-          "kant": "Gradient-tyngdepunkt for landskapselement",
-          "kantRetur": "Gradient-tyngdepunkt i landskap",
-          "kode": "NN-NA-TI-V4"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AB"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3TO"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3TO-BA"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-V1"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-L"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-F"
-        }
-      ],
-      "tittel": {
-        "nb": "Middels kupert"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REIA"
-      ],
-      "ingress": "Landskapstypen omfatter slake og småkuperte ås- og fjellandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 100 meter  innenfor avstander på 1 km.",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "",
-        "minTekst": "RR<100",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REIA-2",
-      "max": "RR<100",
-      "min": "RR<100",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3EB"
-        },
-        {
-          "kant": "Gradient-tyngdepunkt for landskapselement",
-          "kantRetur": "Gradient-tyngdepunkt i landskap",
-          "kode": "NN-NA-BS-3TO-HE"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AB"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3TO"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-V1"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-V2"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-V3"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-L"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-F"
-        }
-      ],
-      "tittel": {
-        "nb": "Slakt til småkupert"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REIA"
-      ],
-      "ingress": "Landskapstypen omfatter dal- eller skålformede deler av ås- og fjellandskapet, som ikke er store eller nedskårne nok til å inkluderes i hovedtypen dallandskap.",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "",
-        "minTekst": "TPI6<0",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REIA-1",
-      "max": "TPI6<0",
-      "min": "TPI6<0",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3EL"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-BS-3TO"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-V1"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-V2"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-V3"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-L"
-        },
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-F"
-        },
-        {
-          "kant": "Gradient-tyngdepunkt for landskapselement",
-          "kantRetur": "Gradient-tyngdepunkt i landskap",
-          "kode": "NN-NA-BS-3TO-HK"
-        },
-        {
-          "kant": "Gradient-tyngdepunkt for landskapselement",
-          "kantRetur": "Gradient-tyngdepunkt i landskap",
-          "kode": "NN-NA-BS-3TO-HE"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AB"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3AR"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3ER"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3TO"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T18"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T30"
-        }
-      ],
-      "tittel": {
-        "nb": "Dalformet"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REKS"
-      ],
-      "ingress": "Områdene er tilnærmet flate, med liten terrenguro og med grunne havområder.",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "",
-        "minTekst": "< 0.62",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REKS-1",
-      "max": "< 0.62",
-      "min": "< 0.62",
-      "relasjon": [
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T1"
-        }
-      ],
-      "tittel": {
-        "nb": "Slak"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REKS"
-      ],
-      "ingress": "Områdene hører til den mer kuperte delen av kystsletta med vekslende terreng over og under havnivå.",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "",
-        "minTekst": "> 0.62",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REKS-2",
-      "max": "> 0.62",
-      "min": "> 0.62",
-      "relasjon": [
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3ML"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T1"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T8"
-        }
-      ],
-      "tittel": {
-        "nb": "Middels kupert"
-      },
-      "type": "gradientverdi"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG-REKS"
-      ],
-      "ingress": "Områdene har bratte åser eller ‘restfjell’ som står høyere enn kystslettelandskapet omkring, med en brem av lavt/flatt land omkring.",
-      "intervall": {
-        "max": "",
-        "maxTekst": "",
-        "min": "",
-        "minTekst": "TPI > 10",
-        "måleenhet": ""
-      },
-      "kode": "NN-LA-KLG-REKS-3",
-      "max": "TPI > 10",
-      "min": "TPI > 10",
-      "relasjon": [
-        {
-          "kant": "Dominerende landskapselement",
-          "kantRetur": "Dominerende i landskap",
-          "kode": "NN-NA-TI-T1"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-BS-3ML"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T13"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T5"
-        },
-        {
-          "kant": "Vanlig forekommende landskapselement",
-          "kantRetur": "Vanlig forekommende i landskap",
-          "kode": "NN-NA-TI-T8"
-        }
-      ],
-      "tittel": {
-        "nb": "Bratte åser, restfjell, klipper og stup"
-      },
-      "type": "gradientverdi"
+      "type": "gradient"
     },
     {
       "farge": "#5b8943",
+      "fargebidrag": "hsl(77, 81%, 46%)",
       "foreldre": [
         "NN-LA-KLG-VE"
       ],
@@ -19237,10 +19318,16 @@
       "tittel": {
         "nb": "Under skoggrensen"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "farge": "#aacd65",
+      "fargebidrag": "hsl(66, 32%, 66%)",
       "foreldre": [
         "NN-LA-KLG-VE"
       ],
@@ -19293,10 +19380,16 @@
       "tittel": {
         "nb": "Hei under skoggrensen"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "farge": "#d8d79e",
+      "fargebidrag": "hsl(55, 25%, 66%)",
       "foreldre": [
         "NN-LA-KLG-VE"
       ],
@@ -19349,10 +19442,16 @@
       "tittel": {
         "nb": "Hei over skoggrensen"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "farge": "rgb(240,255,240)",
+      "fargebidrag": "hsl(33,  1%, 66%)",
       "foreldre": [
         "NN-LA-KLG-VE"
       ],
@@ -19415,9 +19514,15 @@
       "tittel": {
         "nb": "Bart fjell over skoggrensen"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        1
+      ]
     },
     {
+      "fargebidrag": "hsl(33, 55%, 100%)",
       "foreldre": [
         "NN-LA-KLG-VP"
       ],
@@ -19462,9 +19567,11 @@
       "tittel": {
         "nb": "Uten høyt våtmarkspreg"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": 0
     },
     {
+      "fargebidrag": "hsl(265, 41%, 35%)",
       "foreldre": [
         "NN-LA-KLG-VP"
       ],
@@ -19529,135 +19636,435 @@
       "tittel": {
         "nb": "Høyt våtmarkspreg"
       },
-      "type": "gradientverdi"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        0
+      ]
     },
     {
+      "farge": "#5050ff",
+      "fargebidrag": "hsl(77, 24%, 77%)",
       "foreldre": [
-        "NN-LA-KLG"
+        "NN-LA-KLG-KA"
       ],
-      "ingress": "Landskapsgradient som indikerer grad av menneskelig påvirkning og arealbruksintensitet i landskapet over tid, uttrykt gjennom mengde og tetthet av bygninger, infrastruktur og andre utbygde områder. Gradienten omfatter variasjon fra naturområder med liten menneskelig påvirkning/ekstensiv arealbruk, via områder med spredt bosetting og spredt infrastruktur til utbygde og urbaniserte områder som tettsteder og byer.",
-      "kart": {
-        "format": {
-          "raster_gradient": {
-            "intervall": {
-              "normalisertVerdi": [
-                1,
-                255
-              ],
-              "original": [
-                0,
-                13.228172302246
-              ]
-            },
-            "visning": [
-              "diskret",
-              "kontinuerlig"
-            ]
-          }
+      "ingress": "Områdene hører til hovedtypen innlandsslettelandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 50 meter  innenfor avstander på 1 km. Områdene av typen ligger nær kysten (mindre enn 6 km) og grenser ofte til kystslettelandskap.",
+      "intervall": {
+        "max": "6",
+        "maxTekst": "6",
+        "min": "0",
+        "minTekst": "0",
+        "måleenhet": "km"
+      },
+      "kode": "NN-LA-KLG-KA-1",
+      "max": "< 6 km",
+      "min": "< 6 km",
+      "relasjon": [
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T34"
         }
-      },
-      "kode": "NN-LA-KLG-AI",
-      "måleenhet": "",
+      ],
+      "sortering": 1,
       "tittel": {
-        "nb": "Arealbruksintensitet"
+        "nb": "Kystnær"
       },
-      "type": "gradient"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        0,
+        0.1
+      ]
     },
     {
+      "farge": "hsl(120, 0%, 95%)",
+      "fargebidrag": "hsl(77, 11%, 55%)",
       "foreldre": [
-        "NN-LA-KLG"
+        "NN-LA-KLG-KA"
       ],
-      "ingress": "Landskapsgradient som indikerer grad av menneskelig påvirkning og arealbruksintensitet i landskapet over tid, uttrykt gjennom mengde og tetthet av bygninger, infrastruktur og andre utbygde områder. Gradienten omfatter variasjon fra naturområder med liten menneskelig påvirkning/ekstensiv arealbruk, via områder med spredt bosetting og spredt infrastruktur til utbygde og urbaniserte områder som tettsteder og byer. Gradienten er identisk med gradienten ‘arealbruksintensitet’ som benyttes i øvrige hovedtyper, men i kystslettelandskapet er gradienten delt i kun tre tre trinn, fordi mye av variasjonen langs gradienten er fanget opp av gradienten indre-ytre kyst.",
-      "kart": {
-        "format": {
-          "raster_gradient": {
-            "intervall": {
-              "normalisertVerdi": [
-                1,
-                255
-              ],
-              "original": [
-                0,
-                13.228172302246
-              ]
-            },
-            "visning": [
-              "diskret",
-              "kontinuerlig"
-            ]
-          }
-        }
+      "ingress": "Områdene hører til hovedtypen innlandsslettelandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 50 meter  innenfor avstander på 1 km. Områder av typen er innlandssletter/vidder med avstand til kysten som er større enn 6 km.",
+      "intervall": {
+        "max": "210.649",
+        "maxTekst": "210.649",
+        "min": "6",
+        "minTekst": "6",
+        "måleenhet": "km"
       },
-      "kode": "NN-LA-KLG-AIKS",
-      "måleenhet": "",
+      "kode": "NN-LA-KLG-KA-2",
+      "max": "> 6 km",
+      "min": "> 6 km",
+      "sortering": 2,
       "tittel": {
-        "nb": "Arealbruksintensitet i kystslettelandskap"
+        "nb": "Ikke kystnær"
       },
-      "type": "gradient"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        0,
+        0.1
+      ]
     },
     {
+      "farge": "hsl(120, 0%, 95%)",
+      "fargebidrag": "hsl(0, 0%, 100%)",
       "foreldre": [
-        "NN-LA-KLG"
+        "NN-LA-KLG-AI"
       ],
-      "ingress": "Om landskapet er dominert av isbre.",
-      "kart": {
-        "format": {
-          "raster_gradient": {
-            "intervall": {
-              "normalisertVerdi": [
-                1,
-                255
-              ],
-              "original": [
-                0,
-                1
-              ]
-            },
-            "visning": [
-              "diskret"
-            ]
-          }
-        }
+      "ingress": "Landskapet er i liten grad preget av menneskelig aktivitet, bebyggelse og infrastruktur, selv om enkelte bygninger og linjeinngrep som veier og kraftledninger kan forekomme.",
+      "intervall": {
+        "max": "6",
+        "maxTekst": "6",
+        "min": "0",
+        "minTekst": "0",
+        "måleenhet": ""
       },
-      "kode": "NN-LA-KLG-BP",
-      "måleenhet": "%",
+      "kode": "NN-LA-KLG-AI-1",
+      "max": "<6",
+      "min": "<6",
       "tittel": {
-        "nb": "Brepreg"
+        "nb": "Lav arealbruksintensitet"
       },
-      "type": "gradient"
+      "type": "gradientverdi",
+      "vekt": 0
     },
     {
+      "farge": "#cc0",
+      "fargebidrag": "hsl(220, 0%, 75%)",
       "foreldre": [
-        "NN-LA-KLG"
+        "NN-LA-KLG-AI"
       ],
-      "ingress": "Gradient som uttrykker gradvis variasjon i landskapsegenskaper fra indre til ytre kyst. De ytterste områdene er direkte eksponert mot vind og bølger fra åpnet hav, mens de indre delene ligger mer beskyttet i lune viker, på innsiden av større øyer og innover mot/i fjordene. Indre områder har også ‘innlandsegenskaper’ knyttet til øystørrelse (indre deler av større øyer), med tilhørende større nedbørfelt, flere vassdrag og ofte også økende grad av menneskelig påvirkning og arealbruksintensitet.",
-      "kart": {
-        "format": {
-          "raster_gradient": {
-            "intervall": {
-              "normalisertVerdi": [
-                1,
-                255
-              ],
-              "original": [
-                0,
-                2.815
-              ]
-            },
-            "visning": [
-              "klasser"
-            ]
-          }
+      "ingress": "Landskapet har et tydelig preg av menneskelig påvirkning. Mer enn 2 km² eller mer enn en fjerdedel av området har spredt bebyggelse, gårdsbruk, næringsområder, større samferdselsannlegg, flyplasser med større gressarealer, konsentrasjoner av bebyggelse eller teknisk infrastruktur i form av grender, bygder, små tettsteder, bolig og hyttefelt.",
+      "intervall": {
+        "max": "11.7",
+        "maxTekst": "11.7",
+        "min": "6",
+        "minTekst": "6",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-AI-2",
+      "max": "<11.7",
+      "min": "<11.7",
+      "relasjon": [
+        {
+          "kant": "Gradient-tyngdepunkt for landskapselement",
+          "kantRetur": "Gradient-tyngdepunkt i landskap",
+          "kode": "NN-NA-TI-T40"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T35"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T37"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T39"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T42"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T43"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T44"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T45"
         }
-      },
-      "kode": "NN-LA-KLG-IYK",
-      "måleenhet": "",
+      ],
       "tittel": {
-        "nb": "Indre ytre kyst"
+        "nb": "Bebygde områder"
       },
-      "type": "gradient"
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0.33,
+        0
+      ]
     },
     {
+      "farge": "#c60",
+      "fargebidrag": "hsl(220, 0%, 50%)",
+      "foreldre": [
+        "NN-LA-KLG-AI"
+      ],
+      "ingress": "Landskapet er tydelig preget av intensiv arealbruk med et større tettsted, småby eller fritidsbebyggelse med høy bygningstetthet.",
+      "intervall": {
+        "max": "13",
+        "maxTekst": "13",
+        "min": "11.7",
+        "minTekst": "11.7",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-AI-3",
+      "max": "<13",
+      "min": "<13",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T35"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T37"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T39"
+        },
+        {
+          "kant": "Gradient-tyngdepunkt for landskapselement",
+          "kantRetur": "Gradient-tyngdepunkt i landskap",
+          "kode": "NN-NA-TI-T40"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T40"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T42"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T43"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T44"
+        }
+      ],
+      "tittel": {
+        "nb": "Tettbebyggelse"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0.66,
+        0
+      ]
+    },
+    {
+      "farge": "#c00",
+      "fargebidrag": "hsl(220, 0%, 25%)",
+      "foreldre": [
+        "NN-LA-KLG-AI"
+      ],
+      "ingress": "Landskapet er urbanisert med bykjerne i større by.",
+      "intervall": {
+        "max": "13.228172302246",
+        "maxTekst": "",
+        "min": "13",
+        "minTekst": "13",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-AI-4",
+      "max": ">13",
+      "min": ">13",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T35"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T37"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T39"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T42"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T43"
+        }
+      ],
+      "tittel": {
+        "nb": "By"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "farge": "hsl(120, 0%, 95%)",
+      "fargebidrag": "hsl(0, 0%, 100%)",
+      "foreldre": [
+        "NN-LA-KLG-AIKS"
+      ],
+      "ingress": "Områdene har lav til middels arealbruksintensitet, fra områder helt uten bebyggelse og infrastruktur til mindre grender, fiskevær, samlinger av fritidsbebyggelse og næringsvirksomhet. Større samferdselsannlegg og  flyplasser med større gressarealer kan inngå. Omfanget av bebyggelse, infrastruktur og menneskelig arealbruk samvarierer oftest med eksponering mot vind og bølger fra åpent hav (landskapsgradient indre-ytre kyst).",
+      "intervall": {
+        "max": "11.7",
+        "maxTekst": "11.7",
+        "min": "0",
+        "minTekst": "0",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-AIKS-1",
+      "max": "<11.7",
+      "min": "<11.7",
+      "tittel": {
+        "nb": "Lav til middels arealbruksintensitet"
+      },
+      "type": "gradientverdi",
+      "vekt": 0
+    },
+    {
+      "farge": "#f80",
+      "fargebidrag": "hsl(220, 0%, 66%)",
+      "foreldre": [
+        "NN-LA-KLG-AIKS"
+      ],
+      "ingress": "Landskapet er tydelig preget av menneskelig arealbruk, med et større tettsted, småby eller konsentrasjoner av fritidsbebyggelse med høy bygningstetthet.",
+      "intervall": {
+        "max": "13",
+        "maxTekst": "13",
+        "min": "11.7",
+        "minTekst": "11.7",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-AIKS-2",
+      "max": "<13",
+      "min": "<13",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T35"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T37"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T39"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T40"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T42"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T43"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T44"
+        }
+      ],
+      "tittel": {
+        "nb": "Tettbebyggelse"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        0.5,
+        0
+      ]
+    },
+    {
+      "farge": "#f00",
+      "fargebidrag": "hsl(220, 0%, 33%)",
+      "foreldre": [
+        "NN-LA-KLG-AIKS"
+      ],
+      "ingress": "Landskapet er urbanisert med bykjerne i større by.",
+      "intervall": {
+        "max": "13.228172302246",
+        "maxTekst": "",
+        "min": "13",
+        "minTekst": "13",
+        "måleenhet": ""
+      },
+      "kode": "NN-LA-KLG-AIKS-3",
+      "max": ">13",
+      "min": ">13",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T35"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T37"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T39"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T42"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-T43"
+        }
+      ],
+      "tittel": {
+        "nb": "By"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "farge": "hsl(225, 51%, 66%)",
+      "farge0": "hsl(225, 0%, 66%)",
       "foreldre": [
         "NN-LA-KLG"
       ],
@@ -19689,16 +20096,133 @@
       "type": "gradient"
     },
     {
+      "farge": "hsl(120, 0%, 95%)",
+      "fargebidrag": "hsl(105, 0%, 100%)",
+      "foreldre": [
+        "NN-LA-KLG-IP"
+      ],
+      "ingress": "Områdene har mindre tydelig innsjøpreg, og ingen vann/innsjøer som er større enn 2 km². Områdene har normalt både elver og mindre innsjøer.",
+      "intervall": {
+        "max": "2",
+        "maxTekst": "2",
+        "min": "0",
+        "minTekst": "0",
+        "måleenhet": "km²"
+      },
+      "kode": "NN-LA-KLG-IP-1",
+      "max": "< 2 km²",
+      "min": "< 2 km²",
+      "relasjon": [
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-L"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-F"
+        }
+      ],
+      "tittel": {
+        "nb": "Uten stor innsjø"
+      },
+      "type": "gradientverdi",
+      "vekt": 0
+    },
+    {
+      "fargebidrag": "hsl(225, 45%, 66%)",
+      "foreldre": [
+        "NN-LA-KLG-IP"
+      ],
+      "ingress": "Områder av typen ligger ved innsjø som er større enn 2 km².",
+      "intervall": {
+        "max": "8",
+        "maxTekst": "8",
+        "min": "2",
+        "minTekst": "2",
+        "måleenhet": "km²"
+      },
+      "kode": "NN-LA-KLG-IP-2",
+      "max": "2 > km²",
+      "min": "2 > km²",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-L"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-F"
+        }
+      ],
+      "tittel": {
+        "nb": "Middels stor innsjø"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "fargebidrag": "hsl(225, 61%, 66%)",
+      "foreldre": [
+        "NN-LA-KLG-IP"
+      ],
+      "ingress": "Områder av typen ligger ved innsjø som er større enn 8 km².",
+      "intervall": {
+        "max": "",
+        "maxTekst": "",
+        "min": "8",
+        "minTekst": "8",
+        "måleenhet": "km²"
+      },
+      "kode": "NN-LA-KLG-IP-3",
+      "max": "8 > km²",
+      "min": "8 > km²",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-L"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-F"
+        },
+        {
+          "kant": "Gradient-tyngdepunkt for landskapselement",
+          "kantRetur": "Gradient-tyngdepunkt i landskap",
+          "kode": "NN-NA-TI-T23"
+        }
+      ],
+      "tittel": {
+        "nb": "Større innsjø"
+      },
+      "type": "gradientverdi",
+      "vekt": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "farge": "hsl(205, 50%, 95%)",
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "I hvor stor grad landskapet er dominert av jordbruk, gjennom andel dyrket mark.",
+      "ingress": "Om landskapet er dominert av isbre.",
       "kart": {
         "format": {
           "raster_gradient": {
             "intervall": {
               "normalisertVerdi": [
-                0,
+                1,
                 255
               ],
               "original": [
@@ -19707,161 +20231,196 @@
               ]
             },
             "visning": [
-              "diskret",
-              "kontinuerlig"
+              "diskret"
             ]
           }
         }
       },
-      "kode": "NN-LA-KLG-JP",
+      "kode": "NN-LA-KLG-BP",
       "måleenhet": "%",
       "tittel": {
-        "nb": "Jordbrukspreg"
+        "nb": "Brepreg"
       },
       "type": "gradient"
     },
     {
+      "farge": "hsl(120, 0%, 95%)",
+      "fargebidrag": "hsl(0, 0%, 80%)",
       "foreldre": [
-        "NN-LA-KLG"
+        "NN-LA-KLG-BP"
       ],
-      "ingress": "Landskapsgradient som skiller kystnære innlandssletter fra øvrige innlandssletter (inkl. fjellvidder), basert på variasjon i landskapselementer. De kystnære innlandsslettene ligger mindre enn 6 kilometer fra kystlinjen, og  sammensetningen av landskapselementer er som oftest preget av kystnær beliggenhet. De kystnære innlandsslettene er i geomorfologisk forstand er normalt en del av strandflaten. Andre innlandssletter omfatter både lavlandssletter, fjellvidder og forfjellsvidder som i større grad har ‘innlandsegenskaper’.",
-      "kart": {
-        "format": {
-          "raster_gradient": {
-            "intervall": {
-              "normalisertVerdi": [
-                1,
-                255
-              ],
-              "original": [
-                0,
-                210.64946875
-              ]
-            },
-            "visning": [
-              "diskret",
-              "kontinuerlig"
-            ]
-          }
+      "ingress": "",
+      "intervall": {
+        "max": "0.25",
+        "maxTekst": "25",
+        "min": "0",
+        "minTekst": "0",
+        "måleenhet": "%"
+      },
+      "kode": "NN-LA-KLG-BP-1",
+      "max": "< 25",
+      "min": "< 25",
+      "tittel": {
+        "nb": "Ikke isbredominert"
+      },
+      "type": "gradientverdi",
+      "vekt": 0
+    },
+    {
+      "farge": "hsl(205, 50%, 75%)",
+      "fargebidrag": "hsl(205, 80%, 95%)",
+      "foreldre": [
+        "NN-LA-KLG-BP"
+      ],
+      "ingress": "Områdene av typen har isbre som er større enn 2 km², eller som dekker mer enn en fjerdedel området.",
+      "intervall": {
+        "max": "1",
+        "maxTekst": "",
+        "min": "0.25",
+        "minTekst": "25",
+        "måleenhet": "%"
+      },
+      "kode": "NN-LA-KLG-BP-2",
+      "max": "> 25",
+      "min": "> 25",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3AB"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3BF"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-BS-3EB"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-I1"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T26"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3AR"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3EL"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3ER"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-BS-3FP"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-L"
+        },
+        {
+          "kant": "Vanlig forekommende landskapselement",
+          "kantRetur": "Vanlig forekommende i landskap",
+          "kode": "NN-NA-TI-F"
         }
-      },
-      "kode": "NN-LA-KLG-KA",
-      "måleenhet": "km",
+      ],
       "tittel": {
-        "nb": "Kystavstand"
+        "nb": "Isbredominert"
       },
-      "type": "gradient"
+      "type": "gradientverdi",
+      "vekt": [
+        1,
+        1,
+        4
+      ]
     },
     {
+      "farge": "hsl(120, 0%, 95%)",
+      "fargebidrag": "hsl(0, 0%, 100%)",
       "foreldre": [
-        "NN-LA-KLG"
+        "NN-LA-KLG-JP"
       ],
-      "ingress": "Gradient som beskriver terrengvariasjon og landformer i dal- og fjordlandskapet. Gradienten beskriver gradvis variasjon fra vide åpne daler/fjorder med slakt terreng, til trange og sterkt nedskårne daler/fjorder med ekstrem terrengvariasjon over korte avstander.",
-      "kode": "NN-LA-KLG-REIDKF",
-      "måleenhet": "",
-      "tittel": {
-        "nb": "Relieff i innlandsdal og fjordlandskap"
+      "ingress": "",
+      "intervall": {
+        "max": "0.25",
+        "maxTekst": "25",
+        "min": "0",
+        "minTekst": "0",
+        "måleenhet": "%"
       },
-      "type": "gradient"
+      "kode": "NN-LA-KLG-JP-1",
+      "max": "< 0.25",
+      "min": "< 0.25",
+      "tittel": {
+        "nb": "Ikke jordbruksdominert"
+      },
+      "type": "gradientverdi",
+      "vekt": 0
     },
     {
+      "farge": "hsl(20, 85%, 60%)",
+      "fargebidrag": "hsl(20, 95%, 65%)",
       "foreldre": [
-        "NN-LA-KLG"
+        "NN-LA-KLG-JP"
       ],
-      "ingress": "Gradient som beskriver terrengvariasjon og landformer i innlandsås- og fjellandskap. Gradienten beskriver gradvis variasjon fra slakt og småkupert ås- og fjellandskap, via kupert ås- og fjellandskap til ås- og fjellandskap med ekstrem terrengvariasjon over korte avstander med tinder, egger og stup.",
-      "kode": "NN-LA-KLG-REIA",
-      "måleenhet": "",
-      "tittel": {
-        "nb": "Relieff i innlandsås- og fjellandskap"
+      "ingress": "Jordbruk er den dominerende arealbruken i området.",
+      "intervall": {
+        "max": "1",
+        "maxTekst": "100",
+        "min": "0.25",
+        "minTekst": "25",
+        "måleenhet": "%"
       },
-      "type": "gradient"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG"
-      ],
-      "ingress": "Beskriver grov-skala terrengform.",
-      "kode": "NN-LA-KLG-REKS",
-      "måleenhet": "",
-      "tittel": {
-        "nb": "Relieff i kystslettelandskap"
-      },
-      "type": "gradient"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG"
-      ],
-      "ingress": "Gradient som angir variasjon i vegetasjonsdekke fra områder under skoggrensen, via heilandskap til områder dominert av bart fjell og blokkmark. Variasjonen i vegetasjonsdekke gjenspeiler til dels regional klimatisk variasjon fra lavland til fjell (og arktiske strøk), men også klimatisk variasjon fra indre til ytre kyst, der den ytterste og mest eksponerte kysten normalt er uten skog og med sparsomt vegetasjonsdekke. Gradienten gjenspeiler også variasjon i grad av menneskelig påvirkning i form av husdyrbeite, slått og annen høsting av utmarksressurser.",
-      "kart": {
-        "format": {
-          "raster_gradient": {
-            "intervall": {
-              "normalisertVerdi": [
-                0,
-                5
-              ],
-              "original": [
-                0,
-                255
-              ]
-            },
-            "visning": [
-              "klasser"
-            ]
-          }
+      "kode": "NN-LA-KLG-JP-2",
+      "max": "> 0.25",
+      "min": "> 0.25",
+      "relasjon": [
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T44"
+        },
+        {
+          "kant": "Dominerende landskapselement",
+          "kantRetur": "Dominerende i landskap",
+          "kode": "NN-NA-TI-T45"
+        },
+        {
+          "kant": "Gradient-tyngdepunkt for landskapselement",
+          "kantRetur": "Gradient-tyngdepunkt i landskap",
+          "kode": "NN-NA-TI-T41"
+        },
+        {
+          "kant": "Gradient-tyngdepunkt for landskapselement",
+          "kantRetur": "Gradient-tyngdepunkt i landskap",
+          "kode": "NN-NA-TI-T32"
         }
-      },
-      "kode": "NN-LA-KLG-VE",
-      "måleenhet": "",
-      "tittel": {
-        "nb": "Vegetasjon"
-      },
-      "type": "gradient"
-    },
-    {
-      "foreldre": [
-        "NN-LA-KLG"
       ],
-      "ingress": "Gradient som uttrykker i hvor stor grad landskapet er preget av myrer, våtmarker og mindre ferskvann (tjern, putt, o.l.).",
-      "kart": {
-        "format": {
-          "raster_gradient": {
-            "intervall": {
-              "normalisertVerdi": [
-                1,
-                255
-              ],
-              "original": [
-                0,
-                2
-              ]
-            },
-            "visning": [
-              "diskret",
-              "kontinuerlig"
-            ]
-          }
-        }
-      },
-      "kode": "NN-LA-KLG-VP",
-      "måleenhet": "",
       "tittel": {
-        "nb": "Våtmarkspreg"
+        "nb": "Jordbruksdominert"
       },
-      "type": "gradient"
-    },
-    {
-      "foreldre": [],
-      "infoUrl": "https://artsdatabanken.no/nin/landskap",
-      "ingress": "Landskapstypeinndelingen skiller mellom ulike typer av øko-landskap; enheter som kjennetegnes ved likheter i store landformer og terrengvariasjon, som bestemmer hvilke landskapsdel- og natursystem-typer som forekommer der.",
-      "kart": {
-        "presisjon": 100
-      },
-      "kode": "NN-LA",
-      "tittel": {
-        "nb": "Landskap"
-      }
+      "type": "gradientverdi",
+      "vekt": [
+        2,
+        1,
+        0.1
+      ]
     },
     {
       "foreldre": [
@@ -19921,39 +20480,11 @@
         "nb": "Arealbrukspreg"
       },
       "type": "flagg"
-    },
-    {
-      "farge": "#91cf60",
-      "foreldre": [
-        "NN-LA-TI-AP"
-      ],
-      "infoUrl": "",
-      "ingress": "Naturlandskap brukes om landskap hvor de naturlige, økologiske prosesser er dominerende og hvor kulturpåvirkningen er liten og ubetydelig. Det kan være inngrep eller spor av inngrep, men økosystemet er lite endret.",
-      "kode": "NN-LA-TI-AP-NL",
-      "sortering": 1,
-      "tittel": {
-        "nb": "Naturlandskap"
-      },
-      "type": "flagg"
-    },
-    {
-      "farge": "#fc8d59",
-      "foreldre": [
-        "NN-LA-TI-AP"
-      ],
-      "infoUrl": "",
-      "ingress": "Kulturlandskap er landskap som i større eller mindre grad er påvirka av mennesker.",
-      "kode": "NN-LA-TI-AP-AL",
-      "sortering": 2,
-      "tittel": {
-        "nb": "Arealbrukspreget landskapstype"
-      },
-      "type": "flagg"
     }
   ],
   "meta": {
     "tittel": "Landskap",
-    "produsertUtc": "2019-09-09T07:26:32.481Z",
+    "produsertUtc": "2019-09-09T08:43:01.494Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/landskap.json",
     "tool": {
