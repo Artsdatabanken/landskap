@@ -14,7 +14,64 @@
             }
           },
           "ingress": {
-            "type": "string"
+            "type": [
+              "object",
+              "string"
+            ],
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
+          },
+          "kart": {
+            "type": "object",
+            "properties": {
+              "format": {
+                "type": "object",
+                "properties": {
+                  "raster_indexed": {
+                    "type": "object",
+                    "properties": {
+                      "index": {
+                        "type": "number"
+                      }
+                    }
+                  },
+                  "raster_gradient": {
+                    "type": "object",
+                    "properties": {
+                      "intervall": {
+                        "type": "object",
+                        "properties": {
+                          "normalisertVerdi": {
+                            "type": "array",
+                            "items": {
+                              "type": "number"
+                            }
+                          },
+                          "original": {
+                            "type": "array",
+                            "items": {
+                              "type": "number"
+                            }
+                          }
+                        }
+                      },
+                      "visning": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "presisjon": {
+                "type": "number"
+              }
+            }
           },
           "kode": {
             "type": "string"
@@ -62,6 +119,27 @@
           "tittel_kort": {
             "type": "string"
           },
+          "farge": {
+            "type": "string"
+          },
+          "infoUrl": {
+            "type": "string"
+          },
+          "sortering": {
+            "type": "number"
+          },
+          "type": {
+            "type": "string"
+          },
+          "måleenhet": {
+            "type": "string"
+          },
+          "farge0": {
+            "type": "string"
+          },
+          "fargebidrag": {
+            "type": "string"
+          },
           "intervall": {
             "type": "object",
             "properties": {
@@ -94,67 +172,17 @@
           "min": {
             "type": "string"
           },
-          "type": {
-            "type": "string"
-          },
-          "sortering": {
-            "type": "number"
-          },
-          "farge": {
-            "type": "string"
+          "vekt": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            }
           },
           "normalisertVerdi": {
             "type": "array",
             "items": {
               "type": "number"
             }
-          },
-          "kart": {
-            "type": "object",
-            "properties": {
-              "format": {
-                "type": "object",
-                "properties": {
-                  "raster_gradient": {
-                    "type": "object",
-                    "properties": {
-                      "intervall": {
-                        "type": "object",
-                        "properties": {
-                          "normalisertVerdi": {
-                            "type": "array",
-                            "items": {
-                              "type": "number"
-                            }
-                          },
-                          "original": {
-                            "type": "array",
-                            "items": {
-                              "type": "number"
-                            }
-                          }
-                        }
-                      },
-                      "visning": {
-                        "type": "array",
-                        "items": {
-                          "type": "string"
-                        }
-                      }
-                    }
-                  }
-                }
-              },
-              "presisjon": {
-                "type": "number"
-              }
-            }
-          },
-          "måleenhet": {
-            "type": "string"
-          },
-          "infoUrl": {
-            "type": "string"
           },
           "skala_km2": {
             "type": "array",
@@ -166,21 +194,24 @@
         "required": [
           "foreldre",
           "ingress",
+          "kart",
           "kode",
           "pred_lnr",
           "relasjon",
           "tittel",
           "tittel_kort",
+          "farge",
+          "infoUrl",
+          "sortering",
+          "type",
+          "måleenhet",
+          "farge0",
+          "fargebidrag",
           "intervall",
           "max",
           "min",
-          "type",
-          "sortering",
-          "farge",
-          "normalisertVerdi",
-          "kart",
-          "måleenhet",
-          "infoUrl"
+          "vekt",
+          "normalisertVerdi"
         ]
       }
     },
@@ -197,7 +228,7 @@
           "type": "string"
         },
         "url": {
-          "type": "null"
+          "type": "string"
         },
         "tool": {
           "type": "object",
@@ -211,6 +242,9 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
   }
 }
