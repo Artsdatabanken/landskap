@@ -18310,7 +18310,9 @@
       "farge": "#4b909e",
       "foreldre": [],
       "infoUrl": "https://artsdatabanken.no/nin/landskap",
-      "ingress": "Landskapstypeinndelingen skiller mellom ulike typer av øko-landskap; enheter som kjennetegnes ved likheter i store landformer og terrengvariasjon, som bestemmer hvilke landskapsdel- og natursystem-typer som forekommer der.",
+      "ingress": {
+        "nb": "Landskapstypeinndelingen skiller mellom ulike typer av øko-landskap; enheter som kjennetegnes ved likheter i store landformer og terrengvariasjon, som bestemmer hvilke landskapsdel- og natursystem-typer som forekommer der."
+      },
       "kart": {
         "presisjon": 100
       },
@@ -18325,7 +18327,9 @@
         "NN-LA-TI-AP"
       ],
       "infoUrl": "",
-      "ingress": "Naturlandskap brukes om landskap hvor de naturlige, økologiske prosesser er dominerende og hvor kulturpåvirkningen er liten og ubetydelig. Det kan være inngrep eller spor av inngrep, men økosystemet er lite endret.",
+      "ingress": {
+        "nb": "Naturlandskap brukes om landskap hvor de naturlige, økologiske prosesser er dominerende og hvor kulturpåvirkningen er liten og ubetydelig. Det kan være inngrep eller spor av inngrep, men økosystemet er lite endret."
+      },
       "kode": "NN-LA-TI-AP-NL",
       "sortering": 1,
       "tittel": {
@@ -18339,7 +18343,9 @@
         "NN-LA-TI-AP"
       ],
       "infoUrl": "",
-      "ingress": "Kulturlandskap er landskap som i større eller mindre grad er påvirka av mennesker.",
+      "ingress": {
+        "nb": "Kulturlandskap er landskap som i større eller mindre grad er påvirka av mennesker."
+      },
       "kode": "NN-LA-TI-AP-AL",
       "sortering": 2,
       "tittel": {
@@ -18459,7 +18465,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "I hvor stor grad landskapet er dominert av jordbruk, gjennom andel dyrket mark.",
+      "ingress": {
+        "nb": "I hvor stor grad landskapet er dominert av jordbruk, gjennom andel dyrket mark."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -19256,7 +19264,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Beskriver grov-skala terrengform.",
+      "ingress": {
+        "nb": "Beskriver grov-skala terrengform."
+      },
       "kode": "NN-LA-KLG-REKS",
       "måleenhet": "",
       "tittel": {
@@ -20738,7 +20748,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "I hvor stor grad landskapet er dominert av innsjøer.",
+      "ingress": {
+        "nb": "I hvor stor grad landskapet er dominert av innsjøer."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -20892,7 +20904,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Om landskapet er dominert av isbre.",
+      "ingress": {
+        "nb": "Om landskapet er dominert av isbre."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -21110,7 +21124,9 @@
       "foreldre": [
         "NN-LA"
       ],
-      "ingress": "Større geografisk område med enhetlig visuelt preg, skapt av enhetlig dominans av store landformer og kjennetegnet ved karakteristisk fordeling av landformer, natursystemkomplekser, natursystemer og andre landskapselementer",
+      "ingress": {
+        "nb": "Større geografisk område med enhetlig visuelt preg, skapt av enhetlig dominans av store landformer og kjennetegnet ved karakteristisk fordeling av landformer, natursystemkomplekser, natursystemer og andre landskapselementer"
+      },
       "kode": "NN-LA-TI",
       "relasjon": [
         {
@@ -21168,7 +21184,7 @@
   ],
   "meta": {
     "tittel": "Landskap",
-    "produsertUtc": "2019-09-17T00:33:32.126Z",
+    "produsertUtc": "2019-09-17T14:41:22.204Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/landskap.json",
     "tool": {
