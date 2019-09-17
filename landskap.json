@@ -18352,7 +18352,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Landskapsgradient som indikerer grad av menneskelig påvirkning og arealbruksintensitet i landskapet over tid, uttrykt gjennom mengde og tetthet av bygninger, infrastruktur og andre utbygde områder. Gradienten omfatter variasjon fra naturområder med liten menneskelig påvirkning/ekstensiv arealbruk, via områder med spredt bosetting og spredt infrastruktur til utbygde og urbaniserte områder som tettsteder og byer.",
+      "ingress": {
+        "nb": "Landskapsgradient som indikerer grad av menneskelig påvirkning og arealbruksintensitet i landskapet over tid, uttrykt gjennom mengde og tetthet av bygninger, infrastruktur og andre utbygde områder. Gradienten omfatter variasjon fra naturområder med liten menneskelig påvirkning/ekstensiv arealbruk, via områder med spredt bosetting og spredt infrastruktur til utbygde og urbaniserte områder som tettsteder og byer."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -18386,7 +18388,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Landskapsgradient som indikerer grad av menneskelig påvirkning og arealbruksintensitet i landskapet over tid, uttrykt gjennom mengde og tetthet av bygninger, infrastruktur og andre utbygde områder. Gradienten omfatter variasjon fra naturområder med liten menneskelig påvirkning/ekstensiv arealbruk, via områder med spredt bosetting og spredt infrastruktur til utbygde og urbaniserte områder som tettsteder og byer. Gradienten er identisk med gradienten ‘arealbruksintensitet’ som benyttes i øvrige hovedtyper, men i kystslettelandskapet er gradienten delt i kun tre tre trinn, fordi mye av variasjonen langs gradienten er fanget opp av gradienten indre-ytre kyst.",
+      "ingress": {
+        "nb": "Landskapsgradient som indikerer grad av menneskelig påvirkning og arealbruksintensitet i landskapet over tid, uttrykt gjennom mengde og tetthet av bygninger, infrastruktur og andre utbygde områder. Gradienten omfatter variasjon fra naturområder med liten menneskelig påvirkning/ekstensiv arealbruk, via områder med spredt bosetting og spredt infrastruktur til utbygde og urbaniserte områder som tettsteder og byer. Gradienten er identisk med gradienten ‘arealbruksintensitet’ som benyttes i øvrige hovedtyper, men i kystslettelandskapet er gradienten delt i kun tre tre trinn, fordi mye av variasjonen langs gradienten er fanget opp av gradienten indre-ytre kyst."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -18420,7 +18424,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Landskapsgradient som skiller kystnære innlandssletter fra øvrige innlandssletter (inkl. fjellvidder), basert på variasjon i landskapselementer. De kystnære innlandsslettene ligger mindre enn 6 kilometer fra kystlinjen, og  sammensetningen av landskapselementer er som oftest preget av kystnær beliggenhet. De kystnære innlandsslettene er i geomorfologisk forstand er normalt en del av strandflaten. Andre innlandssletter omfatter både lavlandssletter, fjellvidder og forfjellsvidder som i større grad har ‘innlandsegenskaper’.",
+      "ingress": {
+        "nb": "Landskapsgradient som skiller kystnære innlandssletter fra øvrige innlandssletter (inkl. fjellvidder), basert på variasjon i landskapselementer. De kystnære innlandsslettene ligger mindre enn 6 kilometer fra kystlinjen, og  sammensetningen av landskapselementer er som oftest preget av kystnær beliggenhet. De kystnære innlandsslettene er i geomorfologisk forstand er normalt en del av strandflaten. Andre innlandssletter omfatter både lavlandssletter, fjellvidder og forfjellsvidder som i større grad har ‘innlandsegenskaper’."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -18487,7 +18493,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Gradient som uttrykker i hvor stor grad landskapet er preget av myrer, våtmarker og mindre ferskvann (tjern, putt, o.l.).",
+      "ingress": {
+        "nb": "Gradient som uttrykker i hvor stor grad landskapet er preget av myrer, våtmarker og mindre ferskvann (tjern, putt, o.l.)."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -18521,7 +18529,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Gradient som beskriver terrengvariasjon og landformer i innlandsås- og fjellandskap. Gradienten beskriver gradvis variasjon fra slakt og småkupert ås- og fjellandskap, via kupert ås- og fjellandskap til ås- og fjellandskap med ekstrem terrengvariasjon over korte avstander med tinder, egger og stup.",
+      "ingress": {
+        "nb": "Gradient som beskriver terrengvariasjon og landformer i innlandsås- og fjellandskap. Gradienten beskriver gradvis variasjon fra slakt og småkupert ås- og fjellandskap, via kupert ås- og fjellandskap til ås- og fjellandskap med ekstrem terrengvariasjon over korte avstander med tinder, egger og stup."
+      },
       "kode": "NN-LA-KLG-REIA",
       "måleenhet": "",
       "tittel": {
@@ -18534,7 +18544,9 @@
       "foreldre": [
         "NN-LA-KLG-REIA"
       ],
-      "ingress": "Landskapstypen omfatter dal- eller skålformede deler av ås- og fjellandskapet, som ikke er store eller nedskårne nok til å inkluderes i hovedtypen dallandskap.",
+      "ingress": {
+        "nb": "Landskapstypen omfatter dal- eller skålformede deler av ås- og fjellandskapet, som ikke er store eller nedskårne nok til å inkluderes i hovedtypen dallandskap."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -18637,7 +18649,9 @@
       "foreldre": [
         "NN-LA-KLG-REIA"
       ],
-      "ingress": "Landskapstypen omfatter slake og småkuperte ås- og fjellandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 100 meter  innenfor avstander på 1 km.",
+      "ingress": {
+        "nb": "Landskapstypen omfatter slake og småkuperte ås- og fjellandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 100 meter  innenfor avstander på 1 km."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -18710,7 +18724,9 @@
       "foreldre": [
         "NN-LA-KLG-REIA"
       ],
-      "ingress": "Landskapstypen omfatter middels kuperte ås- og fjellandskap med høydeforskjeller mellom 100 og 250 meter  innenfor avstander på 1 km.",
+      "ingress": {
+        "nb": "Landskapstypen omfatter middels kuperte ås- og fjellandskap med høydeforskjeller mellom 100 og 250 meter  innenfor avstander på 1 km."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -18778,7 +18794,9 @@
       "foreldre": [
         "NN-LA-KLG-REIA"
       ],
-      "ingress": "Landskapstypen omfatter kupert ås- og fjellandskap med høydeforskjeller større enn 250 meter innenfor avstander på 1 km.",
+      "ingress": {
+        "nb": "Landskapstypen omfatter kupert ås- og fjellandskap med høydeforskjeller større enn 250 meter innenfor avstander på 1 km."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -18826,7 +18844,9 @@
       "foreldre": [
         "NN-LA-KLG-REIA"
       ],
-      "ingress": "Landskapstypen omfatter kupert ås- og fjellandskap med høydeforskjeller større enn 250 meter innenfor avstander på 1 km, og som i tillegg har tinder, egger og/eller svært bratte ås- eller fjellpartier, med stor terrengvariasjon innenfor små avstander.",
+      "ingress": {
+        "nb": "Landskapstypen omfatter kupert ås- og fjellandskap med høydeforskjeller større enn 250 meter innenfor avstander på 1 km, og som i tillegg har tinder, egger og/eller svært bratte ås- eller fjellpartier, med stor terrengvariasjon innenfor små avstander."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -18875,7 +18895,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Gradient som beskriver terrengvariasjon og landformer i dal- og fjordlandskapet. Gradienten beskriver gradvis variasjon fra vide åpne daler/fjorder med slakt terreng, til trange og sterkt nedskårne daler/fjorder med ekstrem terrengvariasjon over korte avstander.",
+      "ingress": {
+        "nb": "Gradient som beskriver terrengvariasjon og landformer i dal- og fjordlandskapet. Gradienten beskriver gradvis variasjon fra vide åpne daler/fjorder med slakt terreng, til trange og sterkt nedskårne daler/fjorder med ekstrem terrengvariasjon over korte avstander."
+      },
       "kode": "NN-LA-KLG-REIDKF",
       "måleenhet": "",
       "tittel": {
@@ -18888,7 +18910,9 @@
       "foreldre": [
         "NN-LA-KLG-REIDKF"
       ],
-      "ingress": "Landskapstypen omfatter dallandskap der dalformen er vid og åpen, med en gradvis og slak overgang til omkringliggende åser, fjell og/eller slettelandskap.",
+      "ingress": {
+        "nb": "Landskapstypen omfatter dallandskap der dalformen er vid og åpen, med en gradvis og slak overgang til omkringliggende åser, fjell og/eller slettelandskap."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -18981,7 +19005,9 @@
       "foreldre": [
         "NN-LA-KLG-REIDKF"
       ],
-      "ingress": "Landskapstypen omfatter dallandskap der dalformen er relativt åpen og middels sterkt nedskåret fra omkringliggende åser, fjell og/eller slettelandskap.",
+      "ingress": {
+        "nb": "Landskapstypen omfatter dallandskap der dalformen er relativt åpen og middels sterkt nedskåret fra omkringliggende åser, fjell og/eller slettelandskap."
+      },
       "intervall": {
         "max": "0.5",
         "maxTekst": "",
@@ -19074,7 +19100,9 @@
       "foreldre": [
         "NN-LA-KLG-REIDKF"
       ],
-      "ingress": "Landskapstypen omfatter dallandskap der dalformen er smal og dypt nedskåret fra omkringliggende åser, fjell og/ellerslettelandskap.",
+      "ingress": {
+        "nb": "Landskapstypen omfatter dallandskap der dalformen er smal og dypt nedskåret fra omkringliggende åser, fjell og/ellerslettelandskap."
+      },
       "intervall": {
         "max": "0.3",
         "maxTekst": "",
@@ -19132,7 +19160,9 @@
       "foreldre": [
         "NN-LA-KLG-REIDKF"
       ],
-      "ingress": "Landskapstypen omfatter dallandskap der dalformen er svært smal og/eller svært dypt nedskåret fra omkringliggende åser, fjell og/eller slettelandskap.",
+      "ingress": {
+        "nb": "Landskapstypen omfatter dallandskap der dalformen er svært smal og/eller svært dypt nedskåret fra omkringliggende åser, fjell og/eller slettelandskap."
+      },
       "intervall": {
         "max": "0.13",
         "maxTekst": "0.13",
@@ -19239,7 +19269,9 @@
       "foreldre": [
         "NN-LA-KLG-REKS"
       ],
-      "ingress": "Områdene er tilnærmet flate, med liten terrenguro og med grunne havområder.",
+      "ingress": {
+        "nb": "Områdene er tilnærmet flate, med liten terrenguro og med grunne havområder."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -19272,7 +19304,9 @@
       "foreldre": [
         "NN-LA-KLG-REKS"
       ],
-      "ingress": "Områdene hører til den mer kuperte delen av kystsletta med vekslende terreng over og under havnivå.",
+      "ingress": {
+        "nb": "Områdene hører til den mer kuperte delen av kystsletta med vekslende terreng over og under havnivå."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -19315,7 +19349,9 @@
       "foreldre": [
         "NN-LA-KLG-REKS"
       ],
-      "ingress": "Områdene har bratte åser eller ‘restfjell’ som står høyere enn kystslettelandskapet omkring, med en brem av lavt/flatt land omkring.",
+      "ingress": {
+        "nb": "Områdene har bratte åser eller ‘restfjell’ som står høyere enn kystslettelandskapet omkring, med en brem av lavt/flatt land omkring."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -19369,7 +19405,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Gradient som uttrykker gradvis variasjon i landskapsegenskaper fra indre til ytre kyst. De ytterste områdene er direkte eksponert mot vind og bølger fra åpnet hav, mens de indre delene ligger mer beskyttet i lune viker, på innsiden av større øyer og innover mot/i fjordene. Indre områder har også ‘innlandsegenskaper’ knyttet til øystørrelse (indre deler av større øyer), med tilhørende større nedbørfelt, flere vassdrag og ofte også økende grad av menneskelig påvirkning og arealbruksintensitet.",
+      "ingress": {
+        "nb": "Gradient som uttrykker gradvis variasjon i landskapsegenskaper fra indre til ytre kyst. De ytterste områdene er direkte eksponert mot vind og bølger fra åpnet hav, mens de indre delene ligger mer beskyttet i lune viker, på innsiden av større øyer og innover mot/i fjordene. Indre områder har også ‘innlandsegenskaper’ knyttet til øystørrelse (indre deler av større øyer), med tilhørende større nedbørfelt, flere vassdrag og ofte også økende grad av menneskelig påvirkning og arealbruksintensitet."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -19402,7 +19440,9 @@
       "foreldre": [
         "NN-LA-KLG-IYK"
       ],
-      "ingress": "Typen omfatter små til mellomstore øyer holmer og skjær på den ytterste delen av kystsletta, med tilhørende grunne marine områder. Områdene er ekstremt sterkt eksponert mot bølger og vind fra åpent hav.",
+      "ingress": {
+        "nb": "Typen omfatter små til mellomstore øyer holmer og skjær på den ytterste delen av kystsletta, med tilhørende grunne marine områder. Områdene er ekstremt sterkt eksponert mot bølger og vind fra åpent hav."
+      },
       "intervall": {
         "max": "2.815",
         "maxTekst": "2.815",
@@ -19491,7 +19531,9 @@
       "foreldre": [
         "NN-LA-KLG-IYK"
       ],
-      "ingress": "Typen omfatter øyer, holmer og skjær og eksponerte fastlandsområder på ytre kystslette , med tilhørende grunne marine områder. Områdene er eksponert mot bølger og vind fra åpent hav.",
+      "ingress": {
+        "nb": "Typen omfatter øyer, holmer og skjær og eksponerte fastlandsområder på ytre kystslette , med tilhørende grunne marine områder. Områdene er eksponert mot bølger og vind fra åpent hav."
+      },
       "intervall": {
         "max": "2.6",
         "maxTekst": "2.6",
@@ -19620,7 +19662,9 @@
       "foreldre": [
         "NN-LA-KLG-IYK"
       ],
-      "ingress": "Typen omfatter områder på kystsletta med tilhørende grunne marine områder som ikke er direkte eksponert mot åpent hav. Sammenlignet med områder på ytre kyst, har landområdene i typen større grad har ‘innlandsegenskaper’ i form av større nedbørfelt, forekomst av vassdrag, økt arealbruksintensitet, m.m.",
+      "ingress": {
+        "nb": "Typen omfatter områder på kystsletta med tilhørende grunne marine områder som ikke er direkte eksponert mot åpent hav. Sammenlignet med områder på ytre kyst, har landområdene i typen større grad har ‘innlandsegenskaper’ i form av større nedbørfelt, forekomst av vassdrag, økt arealbruksintensitet, m.m."
+      },
       "intervall": {
         "max": "2.4",
         "maxTekst": "2.4",
@@ -19749,7 +19793,9 @@
       "foreldre": [
         "NN-LA-KLG-IYK"
       ],
-      "ingress": "Typen omfatter landskap på den indre delen av kystsletta, ofte på innsiden av større øyer eller i kystslette innover mot fjordene som i større grad er skjermet for bølge- og vindeksponering fra åpent hav. Landområdene har ‘innlandsegenskaper‘ i form av forekmst av vassdrag og økt arealbruksintensitet.",
+      "ingress": {
+        "nb": "Typen omfatter landskap på den indre delen av kystsletta, ofte på innsiden av større øyer eller i kystslette innover mot fjordene som i større grad er skjermet for bølge- og vindeksponering fra åpent hav. Landområdene har ‘innlandsegenskaper‘ i form av forekmst av vassdrag og økt arealbruksintensitet."
+      },
       "intervall": {
         "max": "2.2",
         "maxTekst": "2.2",
@@ -19848,7 +19894,9 @@
       "foreldre": [
         "NN-LA-KLG"
       ],
-      "ingress": "Gradient som angir variasjon i vegetasjonsdekke fra områder under skoggrensen, via heilandskap til områder dominert av bart fjell og blokkmark. Variasjonen i vegetasjonsdekke gjenspeiler til dels regional klimatisk variasjon fra lavland til fjell (og arktiske strøk), men også klimatisk variasjon fra indre til ytre kyst, der den ytterste og mest eksponerte kysten normalt er uten skog og med sparsomt vegetasjonsdekke. Gradienten gjenspeiler også variasjon i grad av menneskelig påvirkning i form av husdyrbeite, slått og annen høsting av utmarksressurser.",
+      "ingress": {
+        "nb": "Gradient som angir variasjon i vegetasjonsdekke fra områder under skoggrensen, via heilandskap til områder dominert av bart fjell og blokkmark. Variasjonen i vegetasjonsdekke gjenspeiler til dels regional klimatisk variasjon fra lavland til fjell (og arktiske strøk), men også klimatisk variasjon fra indre til ytre kyst, der den ytterste og mest eksponerte kysten normalt er uten skog og med sparsomt vegetasjonsdekke. Gradienten gjenspeiler også variasjon i grad av menneskelig påvirkning i form av husdyrbeite, slått og annen høsting av utmarksressurser."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -19881,7 +19929,9 @@
       "foreldre": [
         "NN-LA-KLG-VE"
       ],
-      "ingress": "Områdene ligger under skoggrensen, og de delene av landskapet som ikke er dominert av vann, vassdrag og våtmarker og evt. jordbruk og bebygde områder, er normalt dekket med skog.",
+      "ingress": {
+        "nb": "Områdene ligger under skoggrensen, og de delene av landskapet som ikke er dominert av vann, vassdrag og våtmarker og evt. jordbruk og bebygde områder, er normalt dekket med skog."
+      },
       "intervall": {
         "max": 2,
         "min": 1,
@@ -19923,7 +19973,9 @@
       "foreldre": [
         "NN-LA-KLG-VE"
       ],
-      "ingress": "Områdene er overveiende åpne og ligger like nedenfor den klimatiske skoggrensen, med veksling mellom åpne heiområder, innslag av fjellskog, enger og dvergbuskdominert vegetasjon. Disse områdene er ofte formet gjennom avskoging av fastmarksskogsmark og opprettholdelse av åpen mark gjennom rydding av kratt og trær og sommerbeite med moderat beitetrykk.",
+      "ingress": {
+        "nb": "Områdene er overveiende åpne og ligger like nedenfor den klimatiske skoggrensen, med veksling mellom åpne heiområder, innslag av fjellskog, enger og dvergbuskdominert vegetasjon. Disse områdene er ofte formet gjennom avskoging av fastmarksskogsmark og opprettholdelse av åpen mark gjennom rydding av kratt og trær og sommerbeite med moderat beitetrykk."
+      },
       "intervall": {
         "max": 3,
         "min": 2,
@@ -19985,7 +20037,9 @@
       "foreldre": [
         "NN-LA-KLG-VE"
       ],
-      "ingress": "Områdene ligger over skoggrensen, med åpne men i hovedsak vegetasjonsdekte områder i fjellet. Vegetasjonen veksler mellom rabber, fjellheier, lesider og myrer/våtmark.",
+      "ingress": {
+        "nb": "Områdene ligger over skoggrensen, med åpne men i hovedsak vegetasjonsdekte områder i fjellet. Vegetasjonen veksler mellom rabber, fjellheier, lesider og myrer/våtmark."
+      },
       "intervall": {
         "max": 4,
         "min": 3,
@@ -20047,7 +20101,9 @@
       "foreldre": [
         "NN-LA-KLG-VE"
       ],
-      "ingress": "Områdene ligger over skoggrensen og er dominert av bart fjell og/eller blokkmark.",
+      "ingress": {
+        "nb": "Områdene ligger over skoggrensen og er dominert av bart fjell og/eller blokkmark."
+      },
       "intervall": {
         "max": 5,
         "min": 4,
@@ -20118,7 +20174,9 @@
       "foreldre": [
         "NN-LA-KLG-VP"
       ],
-      "ingress": "",
+      "ingress": {
+        "nb": ""
+      },
       "intervall": {
         "max": "0.2",
         "maxTekst": "0.2",
@@ -20167,7 +20225,9 @@
       "foreldre": [
         "NN-LA-KLG-VP"
       ],
-      "ingress": "Områdene har store våtmarksområder med myrer og/eller mange små vann.",
+      "ingress": {
+        "nb": "Områdene har store våtmarksområder med myrer og/eller mange små vann."
+      },
       "intervall": {
         "max": "2",
         "maxTekst": "2",
@@ -20241,7 +20301,9 @@
       "foreldre": [
         "NN-LA-KLG-KA"
       ],
-      "ingress": "Områdene hører til hovedtypen innlandsslettelandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 50 meter  innenfor avstander på 1 km. Områdene av typen ligger nær kysten (mindre enn 6 km) og grenser ofte til kystslettelandskap.",
+      "ingress": {
+        "nb": "Områdene hører til hovedtypen innlandsslettelandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 50 meter  innenfor avstander på 1 km. Områdene av typen ligger nær kysten (mindre enn 6 km) og grenser ofte til kystslettelandskap."
+      },
       "intervall": {
         "max": "6",
         "maxTekst": "6",
@@ -20276,7 +20338,9 @@
       "foreldre": [
         "NN-LA-KLG-KA"
       ],
-      "ingress": "Områdene hører til hovedtypen innlandsslettelandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 50 meter  innenfor avstander på 1 km. Områder av typen er innlandssletter/vidder med avstand til kysten som er større enn 6 km.",
+      "ingress": {
+        "nb": "Områdene hører til hovedtypen innlandsslettelandskap der høydeforskjellene i landskapet i hovedsak er mindre enn 50 meter  innenfor avstander på 1 km. Områder av typen er innlandssletter/vidder med avstand til kysten som er større enn 6 km."
+      },
       "intervall": {
         "max": "210.649",
         "maxTekst": "210.649",
@@ -20304,7 +20368,9 @@
       "foreldre": [
         "NN-LA-KLG-AI"
       ],
-      "ingress": "Landskapet er i liten grad preget av menneskelig aktivitet, bebyggelse og infrastruktur, selv om enkelte bygninger og linjeinngrep som veier og kraftledninger kan forekomme.",
+      "ingress": {
+        "nb": "Landskapet er i liten grad preget av menneskelig aktivitet, bebyggelse og infrastruktur, selv om enkelte bygninger og linjeinngrep som veier og kraftledninger kan forekomme."
+      },
       "intervall": {
         "max": "6",
         "maxTekst": "6",
@@ -20327,7 +20393,9 @@
       "foreldre": [
         "NN-LA-KLG-AI"
       ],
-      "ingress": "Landskapet har et tydelig preg av menneskelig påvirkning. Mer enn 2 km² eller mer enn en fjerdedel av området har spredt bebyggelse, gårdsbruk, næringsområder, større samferdselsannlegg, flyplasser med større gressarealer, konsentrasjoner av bebyggelse eller teknisk infrastruktur i form av grender, bygder, små tettsteder, bolig og hyttefelt.",
+      "ingress": {
+        "nb": "Landskapet har et tydelig preg av menneskelig påvirkning. Mer enn 2 km² eller mer enn en fjerdedel av området har spredt bebyggelse, gårdsbruk, næringsområder, større samferdselsannlegg, flyplasser med større gressarealer, konsentrasjoner av bebyggelse eller teknisk infrastruktur i form av grender, bygder, små tettsteder, bolig og hyttefelt."
+      },
       "intervall": {
         "max": "11.7",
         "maxTekst": "11.7",
@@ -20396,7 +20464,9 @@
       "foreldre": [
         "NN-LA-KLG-AI"
       ],
-      "ingress": "Landskapet er tydelig preget av intensiv arealbruk med et større tettsted, småby eller fritidsbebyggelse med høy bygningstetthet.",
+      "ingress": {
+        "nb": "Landskapet er tydelig preget av intensiv arealbruk med et større tettsted, småby eller fritidsbebyggelse med høy bygningstetthet."
+      },
       "intervall": {
         "max": "13",
         "maxTekst": "13",
@@ -20465,7 +20535,9 @@
       "foreldre": [
         "NN-LA-KLG-AI"
       ],
-      "ingress": "Landskapet er urbanisert med bykjerne i større by.",
+      "ingress": {
+        "nb": "Landskapet er urbanisert med bykjerne i større by."
+      },
       "intervall": {
         "max": "13.228172302246",
         "maxTekst": "",
@@ -20519,7 +20591,9 @@
       "foreldre": [
         "NN-LA-KLG-AIKS"
       ],
-      "ingress": "Områdene har lav til middels arealbruksintensitet, fra områder helt uten bebyggelse og infrastruktur til mindre grender, fiskevær, samlinger av fritidsbebyggelse og næringsvirksomhet. Større samferdselsannlegg og  flyplasser med større gressarealer kan inngå. Omfanget av bebyggelse, infrastruktur og menneskelig arealbruk samvarierer oftest med eksponering mot vind og bølger fra åpent hav (landskapsgradient indre-ytre kyst).",
+      "ingress": {
+        "nb": "Områdene har lav til middels arealbruksintensitet, fra områder helt uten bebyggelse og infrastruktur til mindre grender, fiskevær, samlinger av fritidsbebyggelse og næringsvirksomhet. Større samferdselsannlegg og  flyplasser med større gressarealer kan inngå. Omfanget av bebyggelse, infrastruktur og menneskelig arealbruk samvarierer oftest med eksponering mot vind og bølger fra åpent hav (landskapsgradient indre-ytre kyst)."
+      },
       "intervall": {
         "max": "11.7",
         "maxTekst": "11.7",
@@ -20542,7 +20616,9 @@
       "foreldre": [
         "NN-LA-KLG-AIKS"
       ],
-      "ingress": "Landskapet er tydelig preget av menneskelig arealbruk, med et større tettsted, småby eller konsentrasjoner av fritidsbebyggelse med høy bygningstetthet.",
+      "ingress": {
+        "nb": "Landskapet er tydelig preget av menneskelig arealbruk, med et større tettsted, småby eller konsentrasjoner av fritidsbebyggelse med høy bygningstetthet."
+      },
       "intervall": {
         "max": "13",
         "maxTekst": "13",
@@ -20606,7 +20682,9 @@
       "foreldre": [
         "NN-LA-KLG-AIKS"
       ],
-      "ingress": "Landskapet er urbanisert med bykjerne i større by.",
+      "ingress": {
+        "nb": "Landskapet er urbanisert med bykjerne i større by."
+      },
       "intervall": {
         "max": "13.228172302246",
         "maxTekst": "",
@@ -20693,7 +20771,9 @@
       "foreldre": [
         "NN-LA-KLG-IP"
       ],
-      "ingress": "Områdene har mindre tydelig innsjøpreg, og ingen vann/innsjøer som er større enn 2 km². Områdene har normalt både elver og mindre innsjøer.",
+      "ingress": {
+        "nb": "Områdene har mindre tydelig innsjøpreg, og ingen vann/innsjøer som er større enn 2 km². Områdene har normalt både elver og mindre innsjøer."
+      },
       "intervall": {
         "max": "2",
         "maxTekst": "2",
@@ -20727,7 +20807,9 @@
       "foreldre": [
         "NN-LA-KLG-IP"
       ],
-      "ingress": "Områder av typen ligger ved innsjø som er større enn 2 km².",
+      "ingress": {
+        "nb": "Områder av typen ligger ved innsjø som er større enn 2 km²."
+      },
       "intervall": {
         "max": "8",
         "maxTekst": "8",
@@ -20765,7 +20847,9 @@
       "foreldre": [
         "NN-LA-KLG-IP"
       ],
-      "ingress": "Områder av typen ligger ved innsjø som er større enn 8 km².",
+      "ingress": {
+        "nb": "Områder av typen ligger ved innsjø som er større enn 8 km²."
+      },
       "intervall": {
         "max": "",
         "maxTekst": "",
@@ -20841,7 +20925,9 @@
       "foreldre": [
         "NN-LA-KLG-BP"
       ],
-      "ingress": "",
+      "ingress": {
+        "nb": ""
+      },
       "intervall": {
         "max": "0.25",
         "maxTekst": "25",
@@ -20864,7 +20950,9 @@
       "foreldre": [
         "NN-LA-KLG-BP"
       ],
-      "ingress": "Områdene av typen har isbre som er større enn 2 km², eller som dekker mer enn en fjerdedel området.",
+      "ingress": {
+        "nb": "Områdene av typen har isbre som er større enn 2 km², eller som dekker mer enn en fjerdedel området."
+      },
       "intervall": {
         "max": "1",
         "maxTekst": "",
@@ -20948,7 +21036,9 @@
       "foreldre": [
         "NN-LA-KLG-JP"
       ],
-      "ingress": "",
+      "ingress": {
+        "nb": ""
+      },
       "intervall": {
         "max": "0.25",
         "maxTekst": "25",
@@ -20971,7 +21061,9 @@
       "foreldre": [
         "NN-LA-KLG-JP"
       ],
-      "ingress": "Jordbruk er den dominerende arealbruken i området.",
+      "ingress": {
+        "nb": "Jordbruk er den dominerende arealbruken i området."
+      },
       "intervall": {
         "max": "1",
         "maxTekst": "100",
@@ -21076,7 +21168,7 @@
   ],
   "meta": {
     "tittel": "Landskap",
-    "produsertUtc": "2019-09-14T18:13:51.862Z",
+    "produsertUtc": "2019-09-17T00:33:32.126Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/landskap.json",
     "tool": {
