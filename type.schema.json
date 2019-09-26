@@ -7,17 +7,20 @@
       "items": {
         "type": "object",
         "properties": {
+          "farge": {
+            "type": "string"
+          },
           "foreldre": {
             "type": "array",
             "items": {
               "type": "string"
             }
           },
+          "infoUrl": {
+            "type": "string"
+          },
           "ingress": {
-            "type": [
-              "object",
-              "string"
-            ],
+            "type": "object",
             "properties": {
               "nb": {
                 "type": "string"
@@ -27,17 +30,12 @@
           "kart": {
             "type": "object",
             "properties": {
+              "presisjon": {
+                "type": "number"
+              },
               "format": {
                 "type": "object",
                 "properties": {
-                  "raster_indexed": {
-                    "type": "object",
-                    "properties": {
-                      "index": {
-                        "type": "number"
-                      }
-                    }
-                  },
                   "raster_gradient": {
                     "type": "object",
                     "properties": {
@@ -65,76 +63,43 @@
                         }
                       }
                     }
+                  },
+                  "raster_indexed": {
+                    "type": "object",
+                    "properties": {
+                      "index": {
+                        "type": "number"
+                      }
+                    }
                   }
                 }
-              },
-              "presisjon": {
-                "type": "number"
               }
             }
           },
           "kode": {
             "type": "string"
           },
-          "pred_lnr": {
-            "type": "string"
-          },
-          "relasjon": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "properties": {
-                "erSubset": {
-                  "type": "boolean"
-                },
-                "kant": {
-                  "type": "string"
-                },
-                "kantRetur": {
-                  "type": "string"
-                },
-                "kode": {
-                  "type": "string"
-                }
-              },
-              "required": [
-                "erSubset",
-                "kant",
-                "kantRetur",
-                "kode"
-              ]
-            }
-          },
           "tittel": {
             "type": "object",
             "properties": {
-              "en": {
+              "nb": {
                 "type": "string"
               },
-              "nb": {
+              "en": {
                 "type": "string"
               }
             }
           },
-          "tittel_kort": {
-            "type": "string"
-          },
-          "farge": {
-            "type": "string"
-          },
-          "infoUrl": {
+          "url": {
             "type": "string"
           },
           "sortering": {
             "type": "number"
           },
-          "type": {
-            "type": "string"
-          },
           "måleenhet": {
             "type": "string"
           },
-          "farge0": {
+          "type": {
             "type": "string"
           },
           "fargebidrag": {
@@ -178,6 +143,35 @@
               "type": "number"
             }
           },
+          "relasjon": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "kant": {
+                  "type": "string"
+                },
+                "kantRetur": {
+                  "type": "string"
+                },
+                "kode": {
+                  "type": "string"
+                },
+                "erSubset": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "kant",
+                "kantRetur",
+                "kode",
+                "erSubset"
+              ]
+            }
+          },
+          "farge0": {
+            "type": "string"
+          },
           "normalisertVerdi": {
             "type": "array",
             "items": {
@@ -189,29 +183,36 @@
             "items": {
               "type": "number"
             }
+          },
+          "pred_lnr": {
+            "type": "string"
+          },
+          "tittel_kort": {
+            "type": "string"
           }
         },
         "required": [
           "foreldre",
+          "kode",
+          "tittel",
+          "url",
+          "farge",
           "ingress",
           "kart",
-          "kode",
-          "pred_lnr",
-          "relasjon",
-          "tittel",
-          "tittel_kort",
-          "farge",
-          "infoUrl",
-          "sortering",
           "type",
-          "måleenhet",
-          "farge0",
           "fargebidrag",
           "intervall",
           "max",
           "min",
           "vekt",
-          "normalisertVerdi"
+          "relasjon",
+          "måleenhet",
+          "sortering",
+          "farge0",
+          "normalisertVerdi",
+          "infoUrl",
+          "pred_lnr",
+          "tittel_kort"
         ]
       }
     },
@@ -235,6 +236,9 @@
           "properties": {
             "name": {
               "type": "string"
+            },
+            "url": {
+              "type": "null"
             }
           }
         },
@@ -246,5 +250,15 @@
     "$schema": {
       "type": "string"
     }
+  },
+  "meta": {
+    "tittel": "Type.schema",
+    "produsertUtc": "2019-09-26T15:14:52.840Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/type.schema.json",
+    "tool": {
+      "name": "landskap-lastejobb"
+    },
+    "elementer": 3
   }
 }
