@@ -1,8 +1,18 @@
 {
   "items": [
     {
-      "farge": "#4b909e",
       "foreldre": [],
+      "kode": "NN",
+      "tittel": {
+        "nb": "Natur i Norge"
+      },
+      "url": "/Natur_i_Norge"
+    },
+    {
+      "farge": "#4b909e",
+      "foreldre": [
+        "NN"
+      ],
       "infoUrl": "https://artsdatabanken.no/nin/landskap",
       "ingress": {
         "nb": "Landskapstypeinndelingen skiller mellom ulike typer av øko-landskap; enheter som kjennetegnes ved likheter i store landformer og terrengvariasjon, som bestemmer hvilke landskapsdel- og natursystem-typer som forekommer der."
@@ -21882,13 +21892,13 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-11-04T09:43:41.675Z",
+    "produsertUtc": "2019-11-12T10:24:46.437Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/type.json",
     "tool": {
       "name": "landskap-lastejobb"
     },
-    "elementer": 352
+    "elementer": 353
   },
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/type.schema.json#"
 }

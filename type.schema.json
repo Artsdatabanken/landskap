@@ -7,14 +7,31 @@
       "items": {
         "type": "object",
         "properties": {
-          "farge": {
-            "type": "string"
-          },
           "foreldre": {
             "type": "array",
             "items": {
               "type": "string"
             }
+          },
+          "kode": {
+            "type": "string"
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              },
+              "en": {
+                "type": "string"
+              }
+            }
+          },
+          "url": {
+            "type": "string"
+          },
+          "farge": {
+            "type": "string"
           },
           "infoUrl": {
             "type": "string"
@@ -75,23 +92,6 @@
                 }
               }
             }
-          },
-          "kode": {
-            "type": "string"
-          },
-          "tittel": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              },
-              "en": {
-                "type": "string"
-              }
-            }
-          },
-          "url": {
-            "type": "string"
           },
           "sortering": {
             "type": "number"
@@ -257,7 +257,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-11-01T12:08:27.090Z",
+    "produsertUtc": "2019-11-12T10:24:46.479Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/type.schema.json",
     "tool": {
