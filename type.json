@@ -2493,6 +2493,7 @@
       },
       "intervall": {
         "max": 2,
+        "maxTekst": "",
         "min": 1,
         "minTekst": "under skoggrense",
         "måleenhet": ""
@@ -2539,6 +2540,7 @@
       },
       "intervall": {
         "max": 3,
+        "maxTekst": "",
         "min": 2,
         "minTekst": "hei under skoggrense",
         "måleenhet": ""
@@ -2605,6 +2607,7 @@
       },
       "intervall": {
         "max": 4,
+        "maxTekst": "",
         "min": 3,
         "minTekst": "hei over skoggrense",
         "måleenhet": ""
@@ -2671,6 +2674,7 @@
       },
       "intervall": {
         "max": 5,
+        "maxTekst": "",
         "min": 4,
         "minTekst": "bart fjell over skoggrense",
         "måleenhet": ""
@@ -21892,7 +21896,7 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-11-12T10:24:46.437Z",
+    "produsertUtc": "2019-11-25T22:18:02.535Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/type.json",
     "tool": {
