@@ -1,268 +1,728 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "type": "object",
-  "properties": {
-    "items": {
-      "type": "array",
+  "items": {
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+      "$schema": {
+        "type": "string"
+      },
       "items": {
-        "type": "object",
-        "properties": {
-          "foreldre": {
-            "type": "array",
-            "items": {
+        "items": {
+          "properties": {
+            "farge": {
               "type": "string"
-            }
-          },
-          "kode": {
-            "type": "string"
-          },
-          "tittel": {
-            "type": "object",
-            "properties": {
-              "nb": {
+            },
+            "farge0": {
+              "type": "string"
+            },
+            "fargebidrag": {
+              "type": "string"
+            },
+            "foreldre": {
+              "items": {
                 "type": "string"
               },
-              "en": {
-                "type": "string"
-              }
+              "type": "array"
+            },
+            "infoUrl": {
+              "type": "string"
+            },
+            "ingress": {
+              "properties": {
+                "nb": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "intervall": {
+              "properties": {
+                "max": {
+                  "type": [
+                    "string",
+                    "number"
+                  ]
+                },
+                "maxTekst": {
+                  "type": "string"
+                },
+                "min": {
+                  "type": [
+                    "string",
+                    "number"
+                  ]
+                },
+                "minTekst": {
+                  "type": "string"
+                },
+                "måleenhet": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "kart": {
+              "properties": {
+                "format": {
+                  "properties": {
+                    "raster_gradient": {
+                      "properties": {
+                        "intervall": {
+                          "properties": {
+                            "normalisertVerdi": {
+                              "items": {
+                                "type": "number"
+                              },
+                              "type": "array"
+                            },
+                            "original": {
+                              "items": {
+                                "type": "number"
+                              },
+                              "type": "array"
+                            }
+                          },
+                          "type": "object"
+                        },
+                        "visning": {
+                          "items": {
+                            "type": "string"
+                          },
+                          "type": "array"
+                        }
+                      },
+                      "type": "object"
+                    },
+                    "raster_indexed": {
+                      "properties": {
+                        "index": {
+                          "type": "number"
+                        }
+                      },
+                      "type": "object"
+                    }
+                  },
+                  "type": "object"
+                },
+                "presisjon": {
+                  "type": "number"
+                }
+              },
+              "type": "object"
+            },
+            "kode": {
+              "type": "string"
+            },
+            "max": {
+              "type": "string"
+            },
+            "min": {
+              "type": "string"
+            },
+            "måleenhet": {
+              "type": "string"
+            },
+            "nivå": {
+              "type": "string"
+            },
+            "normalisertVerdi": {
+              "items": {
+                "type": "number"
+              },
+              "type": "array"
+            },
+            "pred_lnr": {
+              "type": "string"
+            },
+            "relasjon": {
+              "items": {
+                "properties": {
+                  "erSubset": {
+                    "type": "boolean"
+                  },
+                  "kant": {
+                    "type": "string"
+                  },
+                  "kantRetur": {
+                    "type": "string"
+                  },
+                  "kode": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "kant",
+                  "kantRetur",
+                  "kode",
+                  "erSubset"
+                ],
+                "type": "object"
+              },
+              "type": "array"
+            },
+            "skala_km2": {
+              "items": {
+                "type": "number"
+              },
+              "type": "array"
+            },
+            "sortering": {
+              "type": "number"
+            },
+            "tittel": {
+              "properties": {
+                "en": {
+                  "type": "string"
+                },
+                "nb": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "tittel_kort": {
+              "type": "string"
+            },
+            "type": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            },
+            "vekt": {
+              "items": {
+                "type": "number"
+              },
+              "type": "array"
             }
+          },
+          "required": [
+            "foreldre",
+            "kode",
+            "tittel",
+            "url",
+            "farge",
+            "ingress",
+            "kart",
+            "nivå",
+            "type",
+            "fargebidrag",
+            "intervall",
+            "max",
+            "min",
+            "vekt",
+            "relasjon",
+            "måleenhet",
+            "sortering",
+            "farge0",
+            "normalisertVerdi",
+            "infoUrl",
+            "pred_lnr",
+            "tittel_kort"
+          ],
+          "type": "object"
+        },
+        "type": "array"
+      },
+      "meta": {
+        "properties": {
+          "elementer": {
+            "type": "number"
+          },
+          "produsertUtc": {
+            "type": "string"
+          },
+          "source": {
+            "items": {
+              "properties": {
+                "elementer": {
+                  "type": "number"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "produsertUtc": {
+                  "type": "string"
+                },
+                "source": {
+                  "items": {
+                    "properties": {
+                      "elementer": {
+                        "type": "number"
+                      },
+                      "name": {
+                        "type": "string"
+                      },
+                      "produsertUtc": {
+                        "type": "string"
+                      },
+                      "source": {
+                        "items": {
+                          "properties": {
+                            "elementer": {
+                              "type": "number"
+                            },
+                            "name": {
+                              "type": "string"
+                            },
+                            "produsertUtc": {
+                              "type": "string"
+                            },
+                            "source": {
+                              "items": {
+                                "properties": {
+                                  "elementer": {
+                                    "type": "number"
+                                  },
+                                  "name": {
+                                    "type": "string"
+                                  },
+                                  "produsertUtc": {
+                                    "type": "string"
+                                  },
+                                  "source": {
+                                    "items": {
+                                      "properties": {
+                                        "elementer": {
+                                          "type": "number"
+                                        },
+                                        "name": {
+                                          "type": "string"
+                                        },
+                                        "produsertUtc": {
+                                          "type": "string"
+                                        },
+                                        "source": {
+                                          "items": {},
+                                          "type": "array"
+                                        },
+                                        "tittel": {
+                                          "type": "string"
+                                        },
+                                        "tool": {
+                                          "properties": {
+                                            "commit": {
+                                              "type": "string"
+                                            },
+                                            "name": {
+                                              "type": "string"
+                                            }
+                                          },
+                                          "type": "object"
+                                        },
+                                        "url": {
+                                          "type": "null"
+                                        },
+                                        "utgiver": {
+                                          "type": "string"
+                                        }
+                                      },
+                                      "type": "object"
+                                    },
+                                    "type": "array"
+                                  },
+                                  "tittel": {
+                                    "type": "string"
+                                  },
+                                  "tool": {
+                                    "properties": {
+                                      "commit": {
+                                        "type": "string"
+                                      },
+                                      "name": {
+                                        "type": "string"
+                                      }
+                                    },
+                                    "type": "object"
+                                  },
+                                  "url": {
+                                    "type": "null"
+                                  },
+                                  "utgiver": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "name",
+                                  "tittel",
+                                  "produsertUtc",
+                                  "utgiver",
+                                  "url",
+                                  "tool",
+                                  "elementer",
+                                  "source"
+                                ],
+                                "type": "object"
+                              },
+                              "type": "array"
+                            },
+                            "tittel": {
+                              "type": "string"
+                            },
+                            "tool": {
+                              "properties": {
+                                "commit": {
+                                  "type": "string"
+                                },
+                                "name": {
+                                  "type": "string"
+                                }
+                              },
+                              "type": "object"
+                            },
+                            "url": {
+                              "type": "null"
+                            },
+                            "utgiver": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "name",
+                            "tittel",
+                            "produsertUtc",
+                            "utgiver",
+                            "url",
+                            "tool",
+                            "elementer",
+                            "source"
+                          ],
+                          "type": "object"
+                        },
+                        "type": "array"
+                      },
+                      "tittel": {
+                        "type": "string"
+                      },
+                      "tool": {
+                        "properties": {
+                          "commit": {
+                            "type": "string"
+                          },
+                          "name": {
+                            "type": "string"
+                          }
+                        },
+                        "type": "object"
+                      },
+                      "url": {
+                        "type": "null"
+                      },
+                      "utgiver": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "tittel",
+                      "produsertUtc",
+                      "utgiver",
+                      "url",
+                      "tool",
+                      "elementer",
+                      "source"
+                    ],
+                    "type": "object"
+                  },
+                  "type": "array"
+                },
+                "tittel": {
+                  "type": "string"
+                },
+                "tool": {
+                  "properties": {
+                    "commit": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "url": {
+                  "type": "null"
+                },
+                "utgiver": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "tittel": {
+            "type": "string"
+          },
+          "tool": {
+            "properties": {
+              "commit": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "null"
+              }
+            },
+            "type": "object"
           },
           "url": {
             "type": "string"
           },
-          "farge": {
-            "type": "string"
-          },
-          "infoUrl": {
-            "type": "string"
-          },
-          "ingress": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              }
-            }
-          },
-          "kart": {
-            "type": "object",
-            "properties": {
-              "presisjon": {
-                "type": "number"
-              },
-              "format": {
-                "type": "object",
-                "properties": {
-                  "raster_gradient": {
-                    "type": "object",
-                    "properties": {
-                      "intervall": {
-                        "type": "object",
-                        "properties": {
-                          "normalisertVerdi": {
-                            "type": "array",
-                            "items": {
-                              "type": "number"
-                            }
-                          },
-                          "original": {
-                            "type": "array",
-                            "items": {
-                              "type": "number"
-                            }
-                          }
-                        }
-                      },
-                      "visning": {
-                        "type": "array",
-                        "items": {
-                          "type": "string"
-                        }
-                      }
-                    }
-                  },
-                  "raster_indexed": {
-                    "type": "object",
-                    "properties": {
-                      "index": {
-                        "type": "number"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "sortering": {
-            "type": "number"
-          },
-          "måleenhet": {
-            "type": "string"
-          },
-          "nivå": {
-            "type": "string"
-          },
-          "type": {
-            "type": "string"
-          },
-          "fargebidrag": {
-            "type": "string"
-          },
-          "intervall": {
-            "type": "object",
-            "properties": {
-              "max": {
-                "type": [
-                  "string",
-                  "number"
-                ]
-              },
-              "maxTekst": {
-                "type": "string"
-              },
-              "min": {
-                "type": [
-                  "string",
-                  "number"
-                ]
-              },
-              "minTekst": {
-                "type": "string"
-              },
-              "måleenhet": {
-                "type": "string"
-              }
-            }
-          },
-          "max": {
-            "type": "string"
-          },
-          "min": {
-            "type": "string"
-          },
-          "vekt": {
-            "type": "array",
-            "items": {
-              "type": "number"
-            }
-          },
-          "relasjon": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "properties": {
-                "kant": {
-                  "type": "string"
-                },
-                "kantRetur": {
-                  "type": "string"
-                },
-                "kode": {
-                  "type": "string"
-                },
-                "erSubset": {
-                  "type": "boolean"
-                }
-              },
-              "required": [
-                "kant",
-                "kantRetur",
-                "kode",
-                "erSubset"
-              ]
-            }
-          },
-          "farge0": {
-            "type": "string"
-          },
-          "normalisertVerdi": {
-            "type": "array",
-            "items": {
-              "type": "number"
-            }
-          },
-          "skala_km2": {
-            "type": "array",
-            "items": {
-              "type": "number"
-            }
-          },
-          "pred_lnr": {
-            "type": "string"
-          },
-          "tittel_kort": {
+          "utgiver": {
             "type": "string"
           }
         },
-        "required": [
-          "foreldre",
-          "kode",
-          "tittel",
-          "url",
-          "farge",
-          "ingress",
-          "kart",
-          "nivå",
-          "type",
-          "fargebidrag",
-          "intervall",
-          "max",
-          "min",
-          "vekt",
-          "relasjon",
-          "måleenhet",
-          "sortering",
-          "farge0",
-          "normalisertVerdi",
-          "infoUrl",
-          "pred_lnr",
-          "tittel_kort"
-        ]
+        "type": "object"
       }
     },
-    "meta": {
-      "type": "object",
-      "properties": {
-        "tittel": {
-          "type": "string"
-        },
-        "produsertUtc": {
-          "type": "string"
-        },
-        "utgiver": {
-          "type": "string"
-        },
-        "url": {
-          "type": "string"
-        },
-        "tool": {
-          "type": "object",
-          "properties": {
-            "name": {
-              "type": "string"
-            },
-            "url": {
-              "type": "null"
-            }
-          }
-        },
-        "elementer": {
-          "type": "number"
-        }
-      }
-    },
-    "$schema": {
-      "type": "string"
-    }
+    "type": "object"
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-11-25T22:18:02.575Z",
+    "produsertUtc": "2020-12-30T20:27:57.823Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/type.schema.json",
     "tool": {
-      "name": "landskap-lastejobb"
+      "name": "landskap-lastejobb",
+      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
     },
-    "elementer": 3
+    "elementer": 3,
+    "source": [
+      {
+        "name": "landskap",
+        "tittel": "Landskap",
+        "produsertUtc": "2020-12-30T20:27:57.652Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "landskap-lastejobb",
+          "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+        },
+        "elementer": 353,
+        "source": [
+          {
+            "name": "landskap",
+            "tittel": "Landskap",
+            "produsertUtc": "2020-12-30T20:27:56.739Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 296,
+            "source": [
+              {
+                "name": "landskap.csv.json",
+                "tittel": "Landskap.csv",
+                "produsertUtc": "2020-12-30T20:27:56.453Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 297,
+                "source": []
+              },
+              {
+                "name": "landskapsgradient.json",
+                "tittel": "Landskapsgradient",
+                "produsertUtc": "2020-12-30T20:27:56.607Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 50,
+                "source": [
+                  {
+                    "name": "landskapsgradient.csv.json",
+                    "tittel": "Landskapsgradient.csv",
+                    "produsertUtc": "2020-12-30T20:27:56.472Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "landskap-lastejobb",
+                      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                    },
+                    "elementer": 50,
+                    "source": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "la_farger",
+            "tittel": "La farger",
+            "produsertUtc": "2020-12-30T20:27:57.023Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 340,
+            "source": [
+              {
+                "name": "landskap.json",
+                "tittel": "Landskap",
+                "produsertUtc": "2020-12-30T20:27:56.739Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 296,
+                "source": [
+                  {
+                    "name": "landskap.csv.json",
+                    "tittel": "Landskap.csv",
+                    "produsertUtc": "2020-12-30T20:27:56.453Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "landskap-lastejobb",
+                      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                    },
+                    "elementer": 297,
+                    "source": []
+                  },
+                  {
+                    "name": "landskapsgradient.json",
+                    "tittel": "Landskapsgradient",
+                    "produsertUtc": "2020-12-30T20:27:56.607Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "landskap-lastejobb",
+                      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                    },
+                    "elementer": 50,
+                    "source": [
+                      {
+                        "name": "landskapsgradient.csv.json",
+                        "tittel": "Landskapsgradient.csv",
+                        "produsertUtc": "2020-12-30T20:27:56.472Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "landskap-lastejobb",
+                          "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                        },
+                        "elementer": 50,
+                        "source": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "kart_index",
+            "tittel": "Kart index",
+            "produsertUtc": "2020-12-30T20:27:57.519Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 291,
+            "source": []
+          },
+          {
+            "name": "landskapsgradient",
+            "tittel": "Landskapsgradient",
+            "produsertUtc": "2020-12-30T20:27:56.607Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 50,
+            "source": [
+              {
+                "name": "landskapsgradient.csv.json",
+                "tittel": "Landskapsgradient.csv",
+                "produsertUtc": "2020-12-30T20:27:56.472Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 50,
+                "source": []
+              }
+            ]
+          },
+          {
+            "name": "landskap_relasjon_til_natursystem",
+            "tittel": "Landskap relasjon til natursystem",
+            "produsertUtc": "2020-12-30T20:27:56.875Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 33,
+            "source": [
+              {
+                "name": "relasjon_til_natursystem.csv.json",
+                "tittel": "Relasjon til natursystem.csv",
+                "produsertUtc": "2020-12-30T20:27:56.478Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 77,
+                "source": []
+              },
+              {
+                "name": "landskapsgradient.json",
+                "tittel": "Landskapsgradient",
+                "produsertUtc": "2020-12-30T20:27:56.607Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 50,
+                "source": [
+                  {
+                    "name": "landskapsgradient.csv.json",
+                    "tittel": "Landskapsgradient.csv",
+                    "produsertUtc": "2020-12-30T20:27:56.472Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "landskap-lastejobb",
+                      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                    },
+                    "elementer": 50,
+                    "source": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "landskap-ubehandlet/Typeinndeling/type"
+          }
+        ]
+      }
+    ]
   }
 }

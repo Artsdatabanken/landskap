@@ -1325,7 +1325,7 @@
           "raster_gradient": {
             "intervall": {
               "normalisertVerdi": [
-                0,
+                1,
                 255
               ],
               "original": [
@@ -6691,7 +6691,7 @@
         "en": "Narrow and steep sided barren mountain valley with lake",
         "nb": "Dypt nedskåret dallandskap med bart fjell over skoggrensen med innsjø"
       },
-      "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med innsjø",
+      "tittel_kort": "Dypt nedskåret dallandskap i fjellet med bart fjell og innsjø",
       "url": "/Natur_i_Norge/Landskap/Typeinndeling/Innlandslandskap/Innlandsdallandskap/Dypt_nedskåret_dallandskap_med_bart_fjell_over_skoggrensen_med_innsjø"
     },
     {
@@ -6829,7 +6829,7 @@
         "en": "Narrow and steep sided valley with larger lake with settlements",
         "nb": "Dypt nedskåret dallandskap under skoggrensen med større innsjø og bebygde områder"
       },
-      "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med hei, større innsjø og bebyggelse",
+      "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med større innsjø og bebyggelse",
       "url": "/Natur_i_Norge/Landskap/Typeinndeling/Innlandslandskap/Innlandsdallandskap/Dypt_nedskåret_dallandskap_under_skoggrensen_med_større_innsjø_og_bebygde_områder"
     },
     {
@@ -6898,7 +6898,7 @@
         "en": "Narrow and steep sided lower mountain valley with larger lake",
         "nb": "Dypt nedskåret dallandskap med hei under skoggrensen med større innsjø"
       },
-      "tittel_kort": "Dypt nedskåret dallandskap i fjellet med bart fjell og større innsjø",
+      "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med hei og større innsjø",
       "url": "/Natur_i_Norge/Landskap/Typeinndeling/Innlandslandskap/Innlandsdallandskap/Dypt_nedskåret_dallandskap_med_hei_under_skoggrensen_med_større_innsjø"
     },
     {
@@ -7588,7 +7588,7 @@
         "en": "Open mountain valley with lake",
         "nb": "Åpent dallandskap med hei over skoggrensen med innsjø"
       },
-      "tittel_kort": "Åpent dallandskap i fjellet med bart fjell og innsjø",
+      "tittel_kort": "Åpent dallandskap i fjellet med hei og innsjø",
       "url": "/Natur_i_Norge/Landskap/Typeinndeling/Innlandslandskap/Innlandsdallandskap/Åpent_dallandskap_med_hei_over_skoggrensen_med_innsjø"
     },
     {
@@ -7726,7 +7726,7 @@
         "en": "Open barren mountain valley with lake",
         "nb": "Åpent dallandskap med bart fjell over skoggrensen med innsjø"
       },
-      "tittel_kort": "Åpent dallandskap under skoggrensen med innsjø",
+      "tittel_kort": "Åpent dallandskap i fjellet med bart fjell og innsjø",
       "url": "/Natur_i_Norge/Landskap/Typeinndeling/Innlandslandskap/Innlandsdallandskap/Åpent_dallandskap_med_bart_fjell_over_skoggrensen_med_innsjø"
     },
     {
@@ -8347,7 +8347,7 @@
         "en": "Open lower mountain valley with larger lake with village",
         "nb": "Åpent dallandskap med hei under skoggrensen med større innsjø og tett bebyggelse"
       },
-      "tittel_kort": "Åpent dallandskap i fjellet med hei, større innsjø og tett bebyggelse",
+      "tittel_kort": "Åpent dallandskap under skoggrensen med hei, større innsjø og tett bebyggelse",
       "url": "/Natur_i_Norge/Landskap/Typeinndeling/Innlandslandskap/Innlandsdallandskap/Åpent_dallandskap_med_hei_under_skoggrensen_med_større_innsjø_og_tett_bebyggelse"
     },
     {
@@ -11383,7 +11383,7 @@
         "en": "Steep sided valley with village",
         "nb": "Nedskåret dallandskap under skoggrensen med tett bebyggelse"
       },
-      "tittel_kort": "Nedskåret dallandskap under skoggrensen med hei og tett bebyggelse",
+      "tittel_kort": "Nedskåret dallandskap med tett bebyggelse",
       "url": "/Natur_i_Norge/Landskap/Typeinndeling/Innlandslandskap/Innlandsdallandskap/Nedskåret_dallandskap_under_skoggrensen_med_tett_bebyggelse"
     },
     {
@@ -12901,7 +12901,7 @@
         "en": "Steep sided barren mountain valley with larger lake",
         "nb": "Nedskåret dallandskap med bart fjell over skoggrensen med større innsjø"
       },
-      "tittel_kort": "Nedskåret dallandskap under skoggrensen med større innsjø",
+      "tittel_kort": "Nedskåret dallandskap i fjellet med større innsjø",
       "url": "/Natur_i_Norge/Landskap/Typeinndeling/Innlandslandskap/Innlandsdallandskap/Nedskåret_dallandskap_med_bart_fjell_over_skoggrensen_med_større_innsjø"
     },
     {
@@ -13177,7 +13177,7 @@
         "en": "Narrow and steep sided valley with village",
         "nb": "Dypt nedskåret dallandskap under skoggrensen med tett bebyggelse"
       },
-      "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med hei og tett bebyggelse",
+      "tittel_kort": "Dypt nedskåret dallandskap under skoggrensen med tett bebyggelse",
       "url": "/Natur_i_Norge/Landskap/Typeinndeling/Innlandslandskap/Innlandsdallandskap/Dypt_nedskåret_dallandskap_under_skoggrensen_med_tett_bebyggelse"
     },
     {
@@ -21897,13 +21897,249 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2020-02-10T11:20:55.071Z",
+    "produsertUtc": "2020-12-30T20:27:57.793Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/type.json",
     "tool": {
-      "name": "landskap-lastejobb"
+      "name": "landskap-lastejobb",
+      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
     },
-    "elementer": 353
+    "elementer": 353,
+    "source": [
+      {
+        "name": "landskap",
+        "tittel": "Landskap",
+        "produsertUtc": "2020-12-30T20:27:57.652Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "landskap-lastejobb",
+          "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+        },
+        "elementer": 353,
+        "source": [
+          {
+            "name": "landskap",
+            "tittel": "Landskap",
+            "produsertUtc": "2020-12-30T20:27:56.739Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 296,
+            "source": [
+              {
+                "name": "landskap.csv.json",
+                "tittel": "Landskap.csv",
+                "produsertUtc": "2020-12-30T20:27:56.453Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 297,
+                "source": []
+              },
+              {
+                "name": "landskapsgradient.json",
+                "tittel": "Landskapsgradient",
+                "produsertUtc": "2020-12-30T20:27:56.607Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 50,
+                "source": [
+                  {
+                    "name": "landskapsgradient.csv.json",
+                    "tittel": "Landskapsgradient.csv",
+                    "produsertUtc": "2020-12-30T20:27:56.472Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "landskap-lastejobb",
+                      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                    },
+                    "elementer": 50,
+                    "source": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "la_farger",
+            "tittel": "La farger",
+            "produsertUtc": "2020-12-30T20:27:57.023Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 340,
+            "source": [
+              {
+                "name": "landskap.json",
+                "tittel": "Landskap",
+                "produsertUtc": "2020-12-30T20:27:56.739Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 296,
+                "source": [
+                  {
+                    "name": "landskap.csv.json",
+                    "tittel": "Landskap.csv",
+                    "produsertUtc": "2020-12-30T20:27:56.453Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "landskap-lastejobb",
+                      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                    },
+                    "elementer": 297,
+                    "source": []
+                  },
+                  {
+                    "name": "landskapsgradient.json",
+                    "tittel": "Landskapsgradient",
+                    "produsertUtc": "2020-12-30T20:27:56.607Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "landskap-lastejobb",
+                      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                    },
+                    "elementer": 50,
+                    "source": [
+                      {
+                        "name": "landskapsgradient.csv.json",
+                        "tittel": "Landskapsgradient.csv",
+                        "produsertUtc": "2020-12-30T20:27:56.472Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "landskap-lastejobb",
+                          "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                        },
+                        "elementer": 50,
+                        "source": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "kart_index",
+            "tittel": "Kart index",
+            "produsertUtc": "2020-12-30T20:27:57.519Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 291,
+            "source": []
+          },
+          {
+            "name": "landskapsgradient",
+            "tittel": "Landskapsgradient",
+            "produsertUtc": "2020-12-30T20:27:56.607Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 50,
+            "source": [
+              {
+                "name": "landskapsgradient.csv.json",
+                "tittel": "Landskapsgradient.csv",
+                "produsertUtc": "2020-12-30T20:27:56.472Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 50,
+                "source": []
+              }
+            ]
+          },
+          {
+            "name": "landskap_relasjon_til_natursystem",
+            "tittel": "Landskap relasjon til natursystem",
+            "produsertUtc": "2020-12-30T20:27:56.875Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "landskap-lastejobb",
+              "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+            },
+            "elementer": 33,
+            "source": [
+              {
+                "name": "relasjon_til_natursystem.csv.json",
+                "tittel": "Relasjon til natursystem.csv",
+                "produsertUtc": "2020-12-30T20:27:56.478Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 77,
+                "source": []
+              },
+              {
+                "name": "landskapsgradient.json",
+                "tittel": "Landskapsgradient",
+                "produsertUtc": "2020-12-30T20:27:56.607Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "landskap-lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                },
+                "elementer": 50,
+                "source": [
+                  {
+                    "name": "landskapsgradient.csv.json",
+                    "tittel": "Landskapsgradient.csv",
+                    "produsertUtc": "2020-12-30T20:27:56.472Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "landskap-lastejobb",
+                      "commit": "https://github.com/Artsdatabanken/landskap-lastejobb/master/3c94672a9ec7a71262ee0aadd757e7d3f2f98db3"
+                    },
+                    "elementer": 50,
+                    "source": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "landskap-ubehandlet/Typeinndeling/type"
+          }
+        ]
+      }
+    ]
   },
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/landskap/master/type.schema.json#"
 }
